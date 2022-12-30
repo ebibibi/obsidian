@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md"
+                "file": "home.md"
               }
             }
           },
@@ -233,14 +233,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d6e99469faf439c",
+  "active": "fb120e3e1b9206d5",
   "lastOpenFiles": [
-    "99_Templates/Daily Notes.md",
+    "02_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
     "01_Daily Notes/2022-12-30.md",
+    "99_Templates/Daily Notes.md",
     "Daily Notes.md",
     "home.md",
     "02_Notes/Obsidian.md",
-    "02_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
     "Index.md",
     "02_Notes/ツェッテルカステンの索引の作り方.md",
     "02_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",

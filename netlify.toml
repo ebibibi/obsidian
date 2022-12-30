@@ -8,7 +8,7 @@ LANDING_BUTTON = "説明ページはこちら👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "これは胡田のObsidianを公開したものです。適当に興味があるものをクリックすると文章が読めます。"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "./home.md"
+LANDING_PAGE = "./home/"
 # (Optional) Site title on landing page
 LANDING_TITLE = "胡田のObsidian"
 PYTHON_VERSION = "3.8"
