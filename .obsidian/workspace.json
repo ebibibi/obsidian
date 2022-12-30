@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/notes/Azure FilesでKerberos認証.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/notes/Azure FilesでKerberos認証.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/notes/Azure FilesでKerberos認証.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public/notes/Azure FilesでKerberos認証.md"
+                "file": "index.md"
               }
             }
           },
@@ -153,14 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85df87b29652008e",
+  "active": "20900945404252d2",
   "lastOpenFiles": [
+    "journals/2022-12-30.md",
+    "index.md",
     "public/notes/NTLM認証.md",
     "public/notes/ファイル共有.md",
     "public/notes/ファイル共有 - ワークグループでNTLM認証.md",
     "public/notes/ワークグループでNTLM認証.md",
     "public/notes/Azure FilesでKerberos認証.md",
-    "journals/2022-12-30.md",
     "private/notes/Private Test Note.md",
     "pages/contents.md"
   ]
