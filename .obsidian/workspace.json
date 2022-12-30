@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "03_Daily Notes/2022-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "03_Daily Notes/2022-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
+                "file": "03_Daily Notes/2022-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Daily Notes/2022-12-30.md"
+                "file": "03_Daily Notes/2022-12-30.md"
               }
             }
           },
@@ -164,9 +164,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2aa2ee7028a31a3",
+  "active": "20900945404252d2",
   "lastOpenFiles": [
-    "01_Daily Notes/2022-12-30.md",
+    "03_Daily Notes/2022-12-30.md",
     "99_Templates/Daily Notes.md",
     "02_Notes/Obsidian.md",
     "02_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
@@ -175,6 +175,6 @@
     "02_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
     "home.md",
     "00_inbox/Untitled.canvas",
-    "00_inbox/Azure FilesでKerberos認証.md"
+    "xx_inbox/Azure FilesでKerberos認証.md"
   ]
 }
