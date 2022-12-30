@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ad12418b3530ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "データベースの種類と役割の違い.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b86372b296004b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Synapse Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/KJ法.md",
+                "file": "Azure Synapse Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/KJ法.md",
+                "file": "Azure Synapse Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/KJ法.md"
+                "file": "Azure Synapse Analytics.md"
               }
             }
           },
@@ -177,17 +201,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00f222357805f96f",
+  "active": "b86372b296004b07",
   "lastOpenFiles": [
-    "01_Notes/発想法.md",
-    "こざね法.md",
+    "01_Notes/こざね法.md",
+    "Azure Synapse Analytics.md",
+    "データベースの種類と役割の違い.md",
     "01_Notes/KJ法.md",
+    "01_Notes/発想法.md",
     "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
     "01_Notes/ツェッテルカステンの索引の作り方.md",
     "01_Notes/ツェッテルカステン.md",
     "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
-    "01_Notes/Obsidian.md",
-    "03_Daily Notes/2022-12-30.md",
-    "99_Templates/Daily Notes.md"
+    "01_Notes/Obsidian.md"
   ]
 }

@@ -2,6 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99_Extra",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00_inbox",
+  "newFileFolderPath": "9999_inbox",
   "promptDelete": false
 }
