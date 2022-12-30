@@ -1,0 +1,2 @@
+- https://obsidian.md/
+- このサイト自体もObsidianで書いたノートから生成されています。

@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!_Inbox/ツェッテルカステン.md",
+                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0791a5e6845e46e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!_Inbox/ツェッテルカステン.md",
+                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!_Inbox/ツェッテルカステン.md",
+                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!_Inbox/ツェッテルカステン.md"
+                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md"
               }
             }
           },
@@ -162,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9500b16a12f5b0c1",
+  "active": "6d6e99469faf439c",
   "lastOpenFiles": [
-    "Index.md",
+    "!_走り書き/ワークグループでNTLM認証.md",
+    "!_走り書き/ファイル共有 - ワークグループでNTLM認証.md",
+    "!_走り書き/ファイル共有.md",
+    "永久保存版のメモ/ツェッテルカステン.md",
+    "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
     "Untitled.md",
+    "Index.md",
+    "!_走り書き/Obsidian.md",
     "Daily Notes/2022-12-30.md",
-    "index.md",
-    "Notes/Azure FilesでKerberos認証.md",
-    "Notes/ワークグループでNTLM認証.md",
-    "public/notes/NTLM認証.md",
-    "public/notes/ファイル共有.md",
-    "public/notes/ファイル共有 - ワークグループでNTLM認証.md",
-    "public/notes/ワークグループでNTLM認証.md"
+    "index.md"
   ]
 }

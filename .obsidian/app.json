@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Extra",
   "newFileLocation": "folder",
-  "newFileFolderPath": "!_Inbox"
+  "newFileFolderPath": "!_走り書き",
+  "promptDelete": false
 }
