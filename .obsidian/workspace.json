@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,11 +155,11 @@
   },
   "active": "85df87b29652008e",
   "lastOpenFiles": [
-    "NTLM認証.md",
-    "Azure FilesでKerberos認証.md",
-    "2022-12-30.md",
     "ワークグループでNTLM認証.md",
     "ファイル共有 - ワークグループでNTLM認証.md",
-    "ファイル共有.md"
+    "ファイル共有.md",
+    "NTLM認証.md",
+    "Azure FilesでKerberos認証.md",
+    "2022-12-30.md"
   ]
 }
