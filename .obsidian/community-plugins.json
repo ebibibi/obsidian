@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-show-file-path"
+  "obsidian-show-file-path",
+  "calendar",
+  "templater-obsidian"
 ]

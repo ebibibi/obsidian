@@ -1,0 +1,3 @@
+- https://obsidian.md/
+- このサイト自体もObsidianで書いたノートから生成されています。
+	- [[ObsidianをNetlifyを使って無料でWebサイトとして公開する方法]]
