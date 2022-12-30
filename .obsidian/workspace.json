@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31a422aec904f341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Literature Memorandum/行動をするためのコツ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e09a49eff195548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9999_inbox/Dockerコンテナの操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/イベントドリブンアーキテクチャ.md",
+                "file": "9999_inbox/Dockerコンテナの操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/イベントドリブンアーキテクチャ.md",
+                "file": "9999_inbox/Dockerコンテナの操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/イベントドリブンアーキテクチャ.md"
+                "file": "9999_inbox/Dockerコンテナの操作.md"
               }
             }
           },
@@ -225,17 +249,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20900945404252d2",
+  "active": "5e09a49eff195548",
   "lastOpenFiles": [
-    "99_Extra/イベントドリブンアーキテクチャ.png",
+    "02_Literature Memorandum/行動をするためのコツ.md",
     "01_Notes/イベントドリブンアーキテクチャ.md",
+    "99_Extra/イベントドリブンアーキテクチャ.png",
     "9999_inbox/Azure IoTアーキテクチャー.md",
     "01_Notes/データベースの種類と役割の違い.md",
     "01_Notes/Azure Synapse Analytics.md",
     "01_Notes/こざね法.md",
     "01_Notes/KJ法.md",
     "01_Notes/発想法.md",
-    "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
-    "01_Notes/ツェッテルカステンの索引の作り方.md"
+    "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md"
   ]
 }
