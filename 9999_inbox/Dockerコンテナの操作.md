@@ -27,9 +27,9 @@ docker push <registryurl>/<image>:<tag>
 docker build . -t タグ
 ```
 
-# イメージのリスト表示
-
-docker images
+## イメージのリスト表示
+```
+```docker images
 
 # コンテナのリストおよび状態を表示
 
