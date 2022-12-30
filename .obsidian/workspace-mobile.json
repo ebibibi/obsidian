@@ -11,10 +11,11 @@
             "id": "79cc9c7f2e103d96",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Test.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Test.md"
+          }
         }
       },
       {
