@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999_inbox/イベントドリブンアーキテクチャ.md",
+                "file": "01_Notes/イベントドリブンアーキテクチャ.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/イベントドリブンアーキテクチャ.md",
+                "file": "01_Notes/イベントドリブンアーキテクチャ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/イベントドリブンアーキテクチャ.md",
+                "file": "01_Notes/イベントドリブンアーキテクチャ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/イベントドリブンアーキテクチャ.md"
+                "file": "01_Notes/イベントドリブンアーキテクチャ.md"
               }
             }
           },
@@ -225,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1150c96216f9d12c",
+  "active": "20900945404252d2",
   "lastOpenFiles": [
     "99_Extra/イベントドリブンアーキテクチャ.png",
-    "9999_inbox/イベントドリブンアーキテクチャ.md",
+    "01_Notes/イベントドリブンアーキテクチャ.md",
     "9999_inbox/Azure IoTアーキテクチャー.md",
     "01_Notes/データベースの種類と役割の違い.md",
     "01_Notes/Azure Synapse Analytics.md",
