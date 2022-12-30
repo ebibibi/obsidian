@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+                "file": "Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md"
+                "file": "Index.md"
               }
             }
           },
@@ -193,15 +193,15 @@
   },
   "active": "6d6e99469faf439c",
   "lastOpenFiles": [
-    "!_走り書き/ワークグループでNTLM認証.md",
-    "!_走り書き/ファイル共有 - ワークグループでNTLM認証.md",
-    "!_走り書き/ファイル共有.md",
-    "永久保存版のメモ/ツェッテルカステン.md",
-    "!_走り書き/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+    "Notes/ツェッテルカステンの索引の作り方.md",
+    "Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
+    "!_inbox/ワークグループでNTLM認証.md",
+    "!_inbox/ファイル共有 - ワークグループでNTLM認証.md",
+    "!_inbox/ファイル共有.md",
+    "Notes/ツェッテルカステン.md",
     "Untitled.md",
     "Index.md",
-    "!_走り書き/Obsidian.md",
-    "Daily Notes/2022-12-30.md",
-    "index.md"
+    "!_inbox/Obsidian.md",
+    "Daily Notes/2022-12-30.md"
   ]
 }
