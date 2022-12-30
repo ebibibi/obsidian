@@ -1,27 +1,31 @@
 
 ## login
-docker login [SERVER]
+```
+docker login <SERVER>
+```
 
 ## pull image
-docker pull image:TAG
+```
+docker pull <image>:<TAG>
+```
 
-# イメージからコンテナのコンソールを実行
-
+## イメージからコンテナのコンソールを実行
+```
 docker images
-
 docker run --rm -it <イメージID> /bin/bash
+```
 
 ## Push
-
 ローカルのイメージに対してリモートのタグをつける。そのうえでプッシュする。
+```
+docker tag <image>:<tag> <registryurl>/<image>:<tag>
+docker push <registryurl>/<image>:<tag>
+```
 
-docker tag kintone2haihai:latest asdfasdfasdfasdfaseee.azurecr.io/kintone2haihai:latest
-
-docker push asdfasdfasdfasdfaseee.azurecr.io/kintone2haihai:latest
-
-# Dockerfileのビルド
-
+## Dockerfileのビルド
+```
 docker build . -t タグ
+```
 
 # イメージのリスト表示
 
