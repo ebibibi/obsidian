@@ -1,0 +1,1 @@
+Azure FilesでKerberos認証を有効化し、
