@@ -162,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2677d56a91734326",
+  "active": "20900945404252d2",
   "lastOpenFiles": [
     "index.md",
-    "Azure FilesでKerberos認証.md",
-    "ワークグループでNTLM認証.md",
+    "Notes/Azure FilesでKerberos認証.md",
+    "Notes/ワークグループでNTLM認証.md",
     "2022-12-30.md",
     "public/notes/NTLM認証.md",
     "public/notes/ファイル共有.md",
