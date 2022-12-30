@@ -1,1 +1,3 @@
-Azure FilesでKerberos認証を有効化し、
+Azure FilesでKerberos認証を有効化し、Azure AD参加済みのWindowsクライアントからSSOでファイルサーバーへのアクセスが可能。
+
+ただし2022/12時点ではオンプレミスのADとAADの同期が必須かつ、オンプレミスにIDをもつユーザーのみアクセス可能。
