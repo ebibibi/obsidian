@@ -4,11 +4,11 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "説明ページはこちら👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "胡田 昌彦のサイトへようこそ。これは胡田のObsidianを公開したものです。"
+LANDING_DESCRIPTION = "これは胡田のObsidianを公開したものです。結構何でもありにしてます。適当に興味があるものをクリックしてもらえましたら。"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "index"
+LANDING_PAGE = "./index.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "WEBI"
 PYTHON_VERSION = "3.8"
