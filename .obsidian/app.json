@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Extra"
+  "attachmentFolderPath": "Extra",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "!_Inbox"
 }

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0129f2e7f3c16a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9500b16a12f5b0c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!_Inbox/ツェッテルカステン.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-12-30.md",
+                "file": "!_Inbox/ツェッテルカステン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-12-30.md",
+                "file": "!_Inbox/ツェッテルカステン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-12-30.md"
+                "file": "!_Inbox/ツェッテルカステン.md"
               }
             }
           },
@@ -153,11 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78dc517e41b2caad",
+  "active": "9500b16a12f5b0c1",
   "lastOpenFiles": [
+    "Index.md",
     "Untitled.md",
     "Daily Notes/2022-12-30.md",
-    "Index.md",
     "index.md",
     "Notes/Azure FilesでKerberos認証.md",
     "Notes/ワークグループでNTLM認証.md",
