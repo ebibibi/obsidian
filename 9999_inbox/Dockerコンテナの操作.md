@@ -3,7 +3,7 @@
 docker login [SERVER]
 
 ## pull image
-docker pull image:<TAG>
+docker pull image:TAG
 
 # イメージからコンテナのコンソールを実行
 
