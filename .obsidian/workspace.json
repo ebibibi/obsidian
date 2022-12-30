@@ -18,89 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0129f2e7f3c16a47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9500b16a12f5b0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0791a5e6845e46e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Notes/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3181faf7b3d96b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb120e3e1b9206d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99_Templates/Daily Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adb346502ca468e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23dc7970035bea33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Daily Notes/2022-12-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,17 +164,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adb346502ca468e4",
+  "active": "6d6e99469faf439c",
   "lastOpenFiles": [
-    "00_inbox/ワークグループでNTLM認証.md",
-    "00_inbox/ファイル共有 - ワークグループでNTLM認証.md",
-    "00_inbox/ファイル共有.md",
-    "00_inbox/NTLM認証.md",
-    "00_inbox/Azure FilesでKerberos認証.md",
-    "00_inbox/Untitled 1.md",
-    "00_inbox/Untitled.md",
     "99_Templates/Daily Notes.md",
+    "01_Daily Notes/2022-12-30.md",
+    "02_Notes/Obsidian.md",
+    "02_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
+    "02_Notes/ツェッテルカステン.md",
+    "02_Notes/ツェッテルカステンの索引の作り方.md",
+    "02_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
     "home.md",
-    "01_Daily Notes/2022-12-30.md"
+    "00_inbox/Untitled.canvas",
+    "00_inbox/Azure FilesでKerberos認証.md"
   ]
 }
