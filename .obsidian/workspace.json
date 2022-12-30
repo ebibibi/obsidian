@@ -21,14 +21,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Daily Notes/2022-12-30.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "78dc517e41b2caad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,15 +168,15 @@
   },
   "active": "20900945404252d2",
   "lastOpenFiles": [
+    "Daily Notes/2022-12-30.md",
+    "Index.md",
     "index.md",
     "Notes/Azure FilesでKerberos認証.md",
     "Notes/ワークグループでNTLM認証.md",
-    "2022-12-30.md",
     "public/notes/NTLM認証.md",
     "public/notes/ファイル共有.md",
     "public/notes/ファイル共有 - ワークグループでNTLM認証.md",
     "public/notes/ワークグループでNTLM認証.md",
-    "public/notes/Azure FilesでKerberos認証.md",
-    "private/notes/Private Test Note.md"
+    "public/notes/Azure FilesでKerberos認証.md"
   ]
 }
