@@ -11,7 +11,6 @@ choco install kubernetes-cli
 
 ### 直接ダウンロード
 
-
 (New-Object System.Net.WebClient).DownloadFile("https://storage.googleapis.com/kubernetes-release/release/v1.25.0/bin/windows/amd64/kubectl.exe","kubectl.exe")
 
 ### コンテキストの一覧を確認

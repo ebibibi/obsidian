@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999_inbox/kubectl基本操作.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/kubectl基本操作.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/kubectl基本操作.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/kubectl基本操作.md"
+                "file": "03_Daily Notes/2022-12-31.md"
               }
             }
           },
@@ -263,6 +263,7 @@
   },
   "active": "e0bbccdec598438d",
   "lastOpenFiles": [
+    "9999_inbox/kubectl基本操作.md",
     "01_Notes/Dockerコンテナの操作.md",
     "02_Literature Memorandum/行動をするためのコツ.md",
     "01_Notes/イベントドリブンアーキテクチャ.md",
@@ -271,7 +272,6 @@
     "01_Notes/データベースの種類と役割の違い.md",
     "01_Notes/Azure Synapse Analytics.md",
     "01_Notes/こざね法.md",
-    "01_Notes/KJ法.md",
-    "01_Notes/発想法.md"
+    "01_Notes/KJ法.md"
   ]
 }
