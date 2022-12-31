@@ -30,6 +30,7 @@
 ## Prefer associative ontologies to hierarchical taxonomies
 - 階層的な分類方法よりも連想的なつながりを優先すべき
 - 階層をはじめに作ってしまうとアイデアが制限されてしまう
+- 分類化せずアイデア同士をつなげることにより新しいカテゴリーが生まれるかもしれない
 
 
 ## Write notes for yourself by default, disregarding audience
