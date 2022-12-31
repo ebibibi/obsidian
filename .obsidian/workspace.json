@@ -180,15 +180,15 @@
   },
   "active": "145100a2f44eec1f",
   "lastOpenFiles": [
-    "03_Daily Notes/2022-12-30.md",
     "home.md",
-    "9999_inbox/Azure FilesでKerberos認証.md",
-    "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
-    "01_Notes/Evergreen notes.md",
-    "01_Notes/こざね法.md",
-    "01_Notes/発想法.md",
-    "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
-    "01_Notes/incremental writing.md",
-    "01_Notes/ツェッテルカステン.md"
+    "01_Notes/ワークグループでNTLM認証.md",
+    "01_Notes/ファイル共有 - ワークグループでNTLM認証.md",
+    "01_Notes/ファイル共有.md",
+    "01_Notes/NTLM認証.md",
+    "01_Notes/kubectl基本操作.md",
+    "01_Notes/Azure IoTアーキテクチャー.md",
+    "01_Notes/Azure FilesでKerberos認証.md",
+    "03_Daily Notes/2022-12-31.md",
+    "03_Daily Notes/2022-12-30.md"
   ]
 }
