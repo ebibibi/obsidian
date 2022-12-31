@@ -9,9 +9,12 @@
 5. Write notes for yourself by default, disregarding audience
 
 ## Evergreen notes should be atomic
-
+- 1つのノートは1つのことについてだけ書かれるべき
+- 1つのことについては極力多くのことが書かれるべき
+- これによりノート同士を紐づけることが容易となる
 
 ## Evergreen notes should be concept-oriented 
+- Evergreen notesはコンセプト毎に因数分解されているのがベスト
 
 ## Evergreen notes should be densely linked 
 
