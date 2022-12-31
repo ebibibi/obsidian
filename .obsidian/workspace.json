@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/Azure Synapse Analytics.md",
+                "file": "01_Notes/データベースの種類と役割の違い.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Azure Synapse Analytics.md",
+                "file": "01_Notes/データベースの種類と役割の違い.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Azure Synapse Analytics.md",
+                "file": "01_Notes/データベースの種類と役割の違い.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Azure Synapse Analytics.md"
+                "file": "01_Notes/データベースの種類と役割の違い.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "c952fb93e8bd1ddb",
   "lastOpenFiles": [
+    "01_Notes/Azure Synapse Analytics.md",
     "9999_inbox/ワークグループでNTLM認証.md",
     "9999_inbox/ファイル共有 - ワークグループでNTLM認証.md",
     "9999_inbox/ファイル共有.md",
@@ -189,7 +190,6 @@
     "9999_inbox/Azure IoTアーキテクチャー.md",
     "9999_inbox/Azure FilesでKerberos認証.md",
     "99_Extra/イベントドリブンアーキテクチャ.png",
-    "03_Daily Notes/2022-12-31.md",
-    "03_Daily Notes/2022-12-30.md"
+    "03_Daily Notes/2022-12-31.md"
   ]
 }
