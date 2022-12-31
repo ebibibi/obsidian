@@ -1,0 +1,2 @@
+- [[Evergreen notes]]も[[ツェッテルカステン]]も[[Evergreen notes should be atomic - 1つのノートは1つのことについてだけ書かれるべき]]という同じ原則を用いています。
+- この原則に従って書くことで
