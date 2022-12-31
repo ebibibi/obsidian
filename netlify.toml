@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "説明ページはこちら👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "これは胡田のObsidianを公開したものです。適当に興味があるものをクリックすると文章が読めます。"
+LANDING_DESCRIPTION = "これは胡田のObsidianを公開したものです。下に表示されているのはObsidianに存在するノートとノート間のつながりです。適当に興味があるものをクリックすると文章が読めます。ノートをドラッグして動かすこともできます。"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "./home/"
 # (Optional) Site title on landing page
