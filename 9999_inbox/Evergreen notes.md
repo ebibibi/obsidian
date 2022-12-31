@@ -29,7 +29,7 @@
 
 ## Prefer associative ontologies to hierarchical taxonomies
 - 階層的な分類方法よりも連想的なつながりを優先すべき
-- 階層をはじめに作ってしまうとアイデア
+- 階層をはじめに作ってしまうとアイデアが制限されてしまうお
 
 
 ## Write notes for yourself by default, disregarding audience
