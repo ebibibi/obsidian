@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/Evergreen notes.md",
+                "file": "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Evergreen notes.md",
+                "file": "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Evergreen notes.md",
+                "file": "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Evergreen notes.md"
+                "file": "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md"
               }
             }
           },
@@ -178,17 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20900945404252d2",
+  "active": "145100a2f44eec1f",
   "lastOpenFiles": [
+    "01_Notes/Evergreen notes.md",
     "9999_inbox/Azure FilesでKerberos認証.md",
     "01_Notes/こざね法.md",
     "01_Notes/発想法.md",
     "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
-    "9999_inbox/incremental writing.md",
+    "01_Notes/incremental writing.md",
     "01_Notes/ツェッテルカステン.md",
     "home.md",
-    "01_Notes/Evergreen notes.md",
     "9999_inbox/Write notes for yourself by default, disregarding audience-ノートを自分のために書き、他人に読まれることを気にしない.md",
-    "9999_inbox/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md"
+    "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md"
   ]
 }
