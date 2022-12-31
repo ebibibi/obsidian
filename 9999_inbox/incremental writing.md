@@ -1,2 +1,2 @@
-- [[Evergreen notes]]も[[ツェッテルカステン]]も[[Evergreen notes should be atomic - 1つのノートは1つのことについてだけ書かれるべき]]という同じ原則を用いています。
-- この原則に従って書くことで
+- [[Evergreen notes]]も[[ツェッテルカステン]]も[[Evergreen notes should be atomic - 1つのノートは1つのことについてだけ書かれるべき]]や[[Evergreen notes should be densely linked-ノートは密にリンクさせるべき]]という同じ原則を用いています。
+- この原則に従って書くことで「インクリメンタルに」少しづつノートを作成し、既存のノートに書きたし、
