@@ -6,17 +6,14 @@
 1. [[Evergreen notes should be atomic - 1つのノートは1つのことについてだけ書かれるべき]]
 2. [[Evergreen notes should be concept-oriented-ノートはコンセプト(トピック)ベースで作られるべき]] 
 3. [[Evergreen notes should be densely linked-ノートは密にリンクさせるべき]]
-4. Prefer associative ontologies to hierarchical taxonomies
+4. [[Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき]]
 5. Write notes for yourself by default, disregarding audience
 
 
 
 
 
-## Prefer associative ontologies to hierarchical taxonomies
-- 階層的な分類方法よりも連想的なつながりを優先すべき
-- 階層をはじめに作ってしまうとアイデアが制限されてしまう
-- 分類化せずアイデア同士をつなげることにより新しいカテゴリーが生まれるかもしれない
+
 
 ## Write notes for yourself by default, disregarding audience
 - ノートを自分のために書き、他人に読まれることを気にしない

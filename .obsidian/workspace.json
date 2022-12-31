@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999_inbox/Evergreen notes should be densely linked-ノートは密にリンクさせるべき.md",
+                "file": "9999_inbox/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/Evergreen notes should be densely linked-ノートは密にリンクさせるべき.md",
+                "file": "9999_inbox/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/Evergreen notes should be densely linked-ノートは密にリンクさせるべき.md",
+                "file": "9999_inbox/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/Evergreen notes should be densely linked-ノートは密にリンクさせるべき.md"
+                "file": "9999_inbox/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "145100a2f44eec1f",
   "lastOpenFiles": [
     "9999_inbox/Evergreen notes.md",
+    "9999_inbox/Evergreen notes should be densely linked-ノートは密にリンクさせるべき.md",
     "9999_inbox/Evergreen notes should be concept-oriented-ノートはコンセプト(トピック)ベースで作られるべき.md",
     "9999_inbox/Evergreen notes should be atomic - 1つのノートは1つのことについてだけ書かれるべき.md",
     "01_Notes/Obsidian.md",
@@ -189,7 +190,6 @@
     "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
     "01_Notes/イベントドリブンアーキテクチャ.md",
     "01_Notes/こざね法.md",
-    "01_Notes/ツェッテルカステンの索引の作り方.md",
-    "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md"
+    "01_Notes/ツェッテルカステンの索引の作り方.md"
   ]
 }
