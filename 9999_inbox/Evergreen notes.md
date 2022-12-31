@@ -3,16 +3,11 @@
 - [[ツェッテルカステン]]とも共通した思想を感じます。
 
 ## Evergreen notesの原則
-1. Evergreen notes should be atomic
+1. [[Evergreen notes should be atomic / 1つのノートは1つのことについてだけ書かれるべき]]
 2. Evergreen notes should be concept-oriented 
 3. Evergreen notes should be densely linked 
 4. Prefer associative ontologies to hierarchical taxonomies
 5. Write notes for yourself by default, disregarding audience
-
-## Evergreen notes should be atomic
-- 1つのノートは1つのことについてだけ書かれるべき
-- 1つのことについては極力多くのことが書かれるべき
-- これによりノート同士を紐づけることが容易となる
 
 ## Evergreen notes should be concept-oriented 
 - ノートはコンセプト(トピック)ベースで作られるべき

@@ -35,24 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3ebe0bcfb010982d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4a42cf882a427e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/ツェッテルカステン.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
