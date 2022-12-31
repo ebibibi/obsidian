@@ -24,9 +24,13 @@
 
 ## Evergreen notes should be densely linked
 - ノートは密にリンクさせるべき
-- ノートの間に沢山のリンクを追加させようとすることで
+- ノートの間に沢山のリンクを追加させようとすることで注意深く考えながらノートを書くことにつながる
+- できる限りリンクを優先すべきでありタグは非効率な関連付けの方法である
 
 ## Prefer associative ontologies to hierarchical taxonomies
+- 階層的な分類方法よりも連想的なつながりを優先すべき
+- 階層をはじめに作ってしまうとあいであ
+
 
 ## Write notes for yourself by default, disregarding audience
 
