@@ -1,5 +1,6 @@
 - [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - Evergreenは常緑、不朽を_意味_する英語の名詞・形容詞。Evergreen notesは「常にアクティブで死蔵されてしまわないノートたち」的な意味合いでしょうか。
+- [[ツェッテルカステン]]とも共通した思想を感じます。
 
 ## Evergreen notesの原則
 1. Evergreen notes should be atomic
@@ -21,7 +22,9 @@
 - コンセプトベースで整理をするとノートをとるのが少し難しくなってしまうが、新しいメモを書く時にそれが全体のどこに当てはまるのかを考えること自体が新しい発見を生む可能性がある。
 - 時間がたちノードの数が増えるとますます既存のノートは複雑に結びつき洞察を生む。
 
-## Evergreen notes should be densely linked 
+## Evergreen notes should be densely linked
+- ノートは密にリンクさせるべき
+- ノートの間に沢山のリンクを追加させようとすることで
 
 ## Prefer associative ontologies to hierarchical taxonomies
 
