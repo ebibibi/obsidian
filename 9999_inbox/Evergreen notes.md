@@ -10,6 +10,7 @@
 
 ## Evergreen notes should be atomic
 
+
 ## Evergreen notes should be concept-oriented 
 
 ## Evergreen notes should be densely linked 
