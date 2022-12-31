@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "01_Notes/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "01_Notes/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "01_Notes/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "01_Notes/Obsidian.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "c952fb93e8bd1ddb",
   "lastOpenFiles": [
+    "home.md",
     "01_Notes/データベースの種類と役割の違い.md",
     "01_Notes/ツェッテルカステン.md",
     "01_Notes/Azure Synapse Analytics.md",
@@ -189,7 +190,6 @@
     "9999_inbox/ファイル共有.md",
     "9999_inbox/NTLM認証.md",
     "9999_inbox/kubectl基本操作.md",
-    "9999_inbox/Azure IoTアーキテクチャー.md",
-    "9999_inbox/Azure FilesでKerberos認証.md"
+    "9999_inbox/Azure IoTアーキテクチャー.md"
   ]
 }
