@@ -14,7 +14,9 @@
 - これによりノート同士を紐づけることが容易となる
 
 ## Evergreen notes should be concept-oriented 
-- Evergreen notesはコンセプト毎に因数分解されているのがベスト
+- ノートはコンセプトベースで作られるべき
+- 著者、本、イベント、プロジェクト、トピックなどでノートを作るのは良くない
+	- このような単位でノートを作成するのは簡単だけど1つのノートに多数の「コンセプト」が含まれてしまうので参照や
 
 ## Evergreen notes should be densely linked 
 
