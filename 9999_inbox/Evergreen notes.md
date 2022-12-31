@@ -7,15 +7,5 @@
 2. [[Evergreen notes should be concept-oriented-ノートはコンセプト(トピック)ベースで作られるべき]] 
 3. [[Evergreen notes should be densely linked-ノートは密にリンクさせるべき]]
 4. [[Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき]]
-5. Write notes for yourself by default, disregarding audience
+5. [[Write notes for yourself by default, disregarding audience-ノートを自分のために書き、他人に読まれることを気にしない]]
 
-
-
-
-
-
-
-## Write notes for yourself by default, disregarding audience
-- ノートを自分のために書き、他人に読まれることを気にしない
-- 人に見られることを前提とした書き方をしようとするとオーバーヘッドが大きく失敗の元となることが多い
-- 人に見られることを意識してうまく書けないよりは何かをかけるレベルで書き続ける方がよい。
