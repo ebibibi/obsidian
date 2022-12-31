@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "03_Daily Notes/2022-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "03_Daily Notes/2022-12-31.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "145100a2f44eec1f",
   "lastOpenFiles": [
+    "03_Daily Notes/2022-12-30.md",
+    "home.md",
     "9999_inbox/Azure FilesでKerberos認証.md",
     "01_Notes/Prefer associative ontologies to hierarchical taxonomies-階層的な分類方法よりも連想的なつながりを優先すべき.md",
     "01_Notes/Evergreen notes.md",
@@ -187,8 +189,6 @@
     "01_Notes/発想法.md",
     "01_Notes/ツェッテルカステンの全体の流れ(メモの取り方と書き方).md",
     "01_Notes/incremental writing.md",
-    "01_Notes/ツェッテルカステン.md",
-    "home.md",
-    "01_Notes/Write notes for yourself by default, disregarding audience-ノートを自分のために書き、他人に読まれることを気にしない.md"
+    "01_Notes/ツェッテルカステン.md"
   ]
 }
