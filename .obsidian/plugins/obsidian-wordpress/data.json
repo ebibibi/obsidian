@@ -1,0 +1,13 @@
+{
+  "lang": "auto",
+  "apiType": "xml-rpc",
+  "endpoint": "https://diary.ebisuda.net/",
+  "xmlRpcPath": "/xmlrpc.php",
+  "saveUsername": true,
+  "savePassword": true,
+  "showRibbonIcon": false,
+  "defaultPostStatus": "publish",
+  "defaultCommentStatus": "open",
+  "username": "ebi",
+  "password": "yZDGnhj*ULRnQYe7E%fNRMZa"
+}
