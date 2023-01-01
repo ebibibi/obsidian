@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "145100a2f44eec1f",
+            "id": "aa2b96dd493b4d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2022-12-31.md",
+                "file": "03_Daily Notes/2023-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2022-12-31.md",
+                "file": "03_Daily Notes/2023-01-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2022-12-31.md",
+                "file": "03_Daily Notes/2023-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2022-12-31.md"
+                "file": "03_Daily Notes/2023-01-01.md"
               }
             }
           },
@@ -178,17 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "145100a2f44eec1f",
+  "active": "aa2b96dd493b4d7c",
   "lastOpenFiles": [
+    "01_Notes/Obsidian.md",
+    "9999_inbox/2023-01-01.md",
+    "03_Daily Notes/2022-12-31.md",
     "home.md",
     "01_Notes/ワークグループでNTLM認証.md",
     "01_Notes/ファイル共有 - ワークグループでNTLM認証.md",
     "01_Notes/ファイル共有.md",
     "01_Notes/NTLM認証.md",
     "01_Notes/kubectl基本操作.md",
-    "01_Notes/Azure IoTアーキテクチャー.md",
-    "01_Notes/Azure FilesでKerberos認証.md",
-    "03_Daily Notes/2022-12-31.md",
-    "03_Daily Notes/2022-12-30.md"
+    "01_Notes/Azure IoTアーキテクチャー.md"
   ]
 }
