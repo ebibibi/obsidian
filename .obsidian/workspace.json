@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "aa2b96dd493b4d7c",
+            "id": "5ed74fecd3be6b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,17 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa2b96dd493b4d7c",
+  "active": "5ed74fecd3be6b95",
   "lastOpenFiles": [
-    "03_Daily Notes/2022-12-31.md",
-    "03_Daily Notes/2022-12-30.md",
-    "9999_inbox/Untitled.canvas",
-    "03_Daily Notes/2023-01-01.md",
     "01_Notes/Obsidian.md",
+    "99_Templates/Daily Notes.md",
     "9999_inbox/2023-01-01.md",
+    "03_Daily Notes/2022-12-30.md",
+    "03_Daily Notes/2022-12-31.md",
+    "03_Daily Notes/2023-01-01.md",
+    "9999_inbox/Untitled.canvas",
     "home.md",
     "01_Notes/ワークグループでNTLM認証.md",
-    "01_Notes/ファイル共有 - ワークグループでNTLM認証.md",
-    "01_Notes/ファイル共有.md"
+    "01_Notes/ファイル共有 - ワークグループでNTLM認証.md"
   ]
 }
