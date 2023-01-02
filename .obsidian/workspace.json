@@ -6,6 +6,7 @@
       {
         "id": "0b99f096c036a1dc",
         "type": "tabs",
+        "dimension": 38.519134775374376,
         "children": [
           {
             "id": "c8b3fdf6c143fa7c",
@@ -20,21 +21,27 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "abf80163d78d7dc8",
+        "type": "tabs",
+        "dimension": 61.480865224625624,
+        "children": [
           {
-            "id": "430effc7fe53e8cd",
+            "id": "db0896d3626468ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NISA",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/成年年齢が20歳から18歳に引き下げ.md"
+                "file": "home.md"
               }
             }
           },
@@ -179,17 +187,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d6e99469faf439c",
+  "active": "db0896d3626468ad",
   "lastOpenFiles": [
+    "02_Literature Memorandum/行動をするためのコツ.md",
+    "03_Daily Notes/2023-01-02.md",
+    "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
     "01_Notes/住民票.md",
     "01_Notes/戸籍謄本.md",
     "01_Notes/ジュニアNISA.md",
     "01_Notes/コンビニ交付.md",
     "01_Notes/IT関連の基礎技術.md",
-    "03_Daily Notes/2023-01-02.md",
-    "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
     "home.md",
-    "01_Notes/Obsidian.md",
-    "03_Daily Notes/2023-01-01.md"
+    "01_Notes/Obsidian.md"
   ]
 }
