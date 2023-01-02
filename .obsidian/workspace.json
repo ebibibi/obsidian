@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md"
+                "file": "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md"
               }
             }
           },
@@ -187,13 +187,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8b3fdf6c143fa7c",
+  "active": "db0896d3626468ad",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-02.md",
     "01_Notes/ObsidianをNetlifyを使って無料でWebサイトとして公開する方法.md",
     "home.md",
     "01_Notes/Obsidian.md",
     "02_Literature Memorandum/行動をするためのコツ.md",
-    "03_Daily Notes/2023-01-02.md",
     "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
     "01_Notes/住民票.md",
     "01_Notes/戸籍謄本.md",
