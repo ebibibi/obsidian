@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c8b3fdf6c143fa7c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Daily Notes/2023-01-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "5ed74fecd3be6b95",
             "type": "leaf",
             "state": {
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/ジュニアNISA.md",
+                "file": "03_Daily Notes/2023-01-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/ジュニアNISA.md",
+                "file": "03_Daily Notes/2023-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/ジュニアNISA.md"
+                "file": "03_Daily Notes/2023-01-02.md"
               }
             }
           },
@@ -163,12 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ed74fecd3be6b95",
+  "active": "c8b3fdf6c143fa7c",
   "lastOpenFiles": [
-    "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
     "9999_inbox/ジュニアNISA.md",
-    "home.md",
     "03_Daily Notes/2023-01-02.md",
+    "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
+    "home.md",
     "9999_inbox/IT関連の基礎技術.md",
     "01_Notes/Obsidian.md",
     "03_Daily Notes/2023-01-01.md",
