@@ -8,8 +8,7 @@
 - 投資可能期間は2023年まで。2024年からは[[新しいNISA]]も登場する中でジュニアNISAでは新規購入はできない。ジュニアNISA的な未成年者向けの非課税の投資枠は2024年からの[[新しいNISA]]には存在していない。
 - 2024年以降は5年間を超えても18歳になるまで非課税で保有可能。
 - 18歳までは払い出し制限があるが、2024年以降には金額や年齢にかかわらず非課税での払い出しが可能。
-- 
-
 
 ## 参考サイト
 - [ジュニアNISAの概要 ： 金融庁](https://www.fsa.go.jp/policy/nisa2/about/junior/overview/index.html)
+- [ジュニアNISAのポイント ： 金融庁](https://www.fsa.go.jp/policy/nisa2/about/junior/point/index.html)
