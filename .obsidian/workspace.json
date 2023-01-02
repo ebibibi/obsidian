@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md"
+                "file": "home.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "5ed74fecd3be6b95",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-02.md",
     "03_Daily Notes/2023-01-01.md",
     "01_Notes/Obsidian.md",
     "99_Templates/Daily Notes.md",
@@ -188,7 +189,6 @@
     "03_Daily Notes/2022-12-31.md",
     "9999_inbox/Untitled.canvas",
     "home.md",
-    "01_Notes/ワークグループでNTLM認証.md",
-    "01_Notes/ファイル共有 - ワークグループでNTLM認証.md"
+    "01_Notes/ワークグループでNTLM認証.md"
   ]
 }
