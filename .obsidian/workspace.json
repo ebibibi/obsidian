@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999_inbox/住民票.md",
+                "file": "9999_inbox/コンビニ交付.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/住民票.md",
+                "file": "9999_inbox/コンビニ交付.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/住民票.md",
+                "file": "9999_inbox/コンビニ交付.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/住民票.md"
+                "file": "9999_inbox/コンビニ交付.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "5ed74fecd3be6b95",
   "lastOpenFiles": [
+    "9999_inbox/住民票.md",
+    "9999_inbox/戸籍謄本.md",
     "03_Daily Notes/2023-01-02.md",
     "9999_inbox/ジュニアNISA.md",
     "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
@@ -187,8 +189,6 @@
     "9999_inbox/IT関連の基礎技術.md",
     "01_Notes/Obsidian.md",
     "03_Daily Notes/2023-01-01.md",
-    "99_Templates/Daily Notes.md",
-    "9999_inbox/2023-01-01.md",
-    "03_Daily Notes/2022-12-30.md"
+    "99_Templates/Daily Notes.md"
   ]
 }
