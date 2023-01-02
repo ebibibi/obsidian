@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NISA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "9999_inbox/コンビニ交付.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md",
+                "file": "9999_inbox/コンビニ交付.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-02.md"
+                "file": "9999_inbox/コンビニ交付.md"
               }
             }
           },
@@ -177,13 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8b3fdf6c143fa7c",
+  "active": "5ed74fecd3be6b95",
   "lastOpenFiles": [
+    "9999_inbox/ジュニアNISA.md",
+    "03_Daily Notes/2023-01-02.md",
     "9999_inbox/コンビニ交付.md",
     "9999_inbox/住民票.md",
     "9999_inbox/戸籍謄本.md",
-    "03_Daily Notes/2023-01-02.md",
-    "9999_inbox/ジュニアNISA.md",
     "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
     "home.md",
     "9999_inbox/IT関連の基礎技術.md",
