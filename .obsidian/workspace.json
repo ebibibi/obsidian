@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "9999_inbox/ジュニアNISA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "9999_inbox/ジュニアNISA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
+                "file": "9999_inbox/ジュニアNISA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999_inbox/成年年齢が20歳から18歳に引き下げ.md"
+                "file": "9999_inbox/ジュニアNISA.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "5ed74fecd3be6b95",
   "lastOpenFiles": [
+    "9999_inbox/成年年齢が20歳から18歳に引き下げ.md",
     "9999_inbox/ジュニアNISA.md",
     "home.md",
     "03_Daily Notes/2023-01-02.md",
@@ -173,7 +174,6 @@
     "03_Daily Notes/2023-01-01.md",
     "99_Templates/Daily Notes.md",
     "9999_inbox/2023-01-01.md",
-    "03_Daily Notes/2022-12-30.md",
-    "03_Daily Notes/2022-12-31.md"
+    "03_Daily Notes/2022-12-30.md"
   ]
 }
