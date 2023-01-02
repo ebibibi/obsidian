@@ -5,10 +5,14 @@
 このインデックスページにはある程度の分量があるノートへのリストや胡田の興味が深いものへのリンクを張る予定です。
 
 ## 日記
-- 日記も[[Obsidian]]でとるようにしてみようかなと考え中です。
-- [[2022-12-30]]から書き始めました
+日記は[[Obsidian]]でDailyNotesに書きつつ、一部をTweetしつつ。1日たったらWordpressの日記サイト([えび日記 | インフラエンジニアの子育てなどの日常…でしたが子供が育ったので趣味の話が多くなるかな？](https://diary.ebisuda.net/))に投稿してます。
+- ObsidianからTwitterに投稿する際に使っているプラグイン
+	- [GitHub - chhoumann/notetweet_obsidian: Post tweets directly from Obsidian.](https://github.com/chhoumann/notetweet_obsidian)
+- ObsidianのノートをWordpressに発行する際に使っているプラグイン
+	- [GitHub - devbean/obsidian-wordpress: An obsidian plugin for publishing docs to WordPress.](https://github.com/devbean/obsidian-wordpress)
 
 ## ノートの書き方
+「ノートをどのように取るのか」がこの手のものはすごく難しいですね。下記のあたりを参考にしています。まだあまりうまくできていませんが。
 -  [[ツェッテルカステン]]
 	- ノートの取り方は[[ツェッテルカステンの全体の流れ(メモの取り方と書き方)]]に従いたい(希望)
 	- メモを書いたら[[ツェッテルカステンの索引の作り方]]に従ってリンクを張っておきたい(難しいですけど…)
@@ -18,6 +22,10 @@
 - [[発想法]]もうまく組み合わせていけるとよいはず(だけどよくわからない)
 
 ## IT関連
-- 仕事がSIer勤務なのでIT系のメモを取ることが多いです。
+仕事がSIer勤務なのでIT系のメモを取ることが多いはずです。メモが増えてなかったら仕事してないのでしょう…。
 - [[Azure]]、[[Microsoft 365]]、[[Windows]]関連が多くなるはず
+- ITｋ
 - [[データベースの種類と役割の違い]]
+
+## 投資関連
+投資関連も
