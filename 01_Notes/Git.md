@@ -137,4 +137,5 @@ git checkout -b <ブランチ名> origin/<ブランチ名>
 
 ### 全てのブランチを確認する
 ```
+bit branch -a
 ```
