@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/デジタル証明書.md",
+                "file": "01_Notes/公開鍵暗号.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/デジタル証明書.md",
+                "file": "01_Notes/公開鍵暗号.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/デジタル証明書.md",
+                "file": "01_Notes/公開鍵暗号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/デジタル証明書.md"
+                "file": "01_Notes/公開鍵暗号.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "db0896d3626468ad",
   "lastOpenFiles": [
+    "01_Notes/デジタル証明書.md",
     "01_Notes/IT関連の基礎技術.md",
     "home.md",
     "03_Daily Notes/2023-01-03.md",
@@ -174,7 +175,6 @@
     "01_Notes/Obsidian.md",
     "02_Literature Memorandum/行動をするためのコツ.md",
     "01_Notes/成年年齢が20歳から18歳に引き下げ.md",
-    "01_Notes/住民票.md",
-    "01_Notes/戸籍謄本.md"
+    "01_Notes/住民票.md"
   ]
 }
