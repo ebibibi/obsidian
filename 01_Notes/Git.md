@@ -122,5 +122,7 @@ git branch -d <ブランチ名>
 
 ### ローカルのブランチをリモートに反映
 ```
-git push -u origin <ローカルの>
+git push -u origin <ローカルのブランチ名>
 ```
+
+### 
