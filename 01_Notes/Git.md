@@ -10,3 +10,6 @@ git config --global user.email "ebibibi@gmail.com"
 ```
 
 ローカルにリポジトリを作成しリモートにプッシュする
+```
+
+```
