@@ -5,5 +5,5 @@
 
 ### 初期設定
 ```
-git con
+git config --global user.name
 ```
