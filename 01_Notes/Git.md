@@ -132,5 +132,5 @@ git branch <ブランチ名> origin/<ブランチ名>
 
 ### リモートのブランチをローカルに持ってきたうえで切り替え
 ```
-git branch <ブランチ名> origin
+git check <ブランチ名> origin
 ```
