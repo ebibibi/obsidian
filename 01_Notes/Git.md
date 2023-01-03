@@ -9,4 +9,4 @@ git config --global user.name "Masahiko Ebisuda"
 git config --global user.email "ebibibi@gmail.com"
 ```
 
-ローカルにリポジトリをsカウ性し
+ローカルにリポジトリを作成し
