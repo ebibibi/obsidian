@@ -14,5 +14,6 @@ git config --global user.email "ebibibi@gmail.com"
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/XX
+git remote add origin https://github.com/XXXX/XXXX.git
+git pu
 ```
