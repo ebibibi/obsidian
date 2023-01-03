@@ -142,5 +142,5 @@ bit branch -a
 
 ### ブランチを比較する
 ```
-git 
+git diff <ｂ>
 ```
