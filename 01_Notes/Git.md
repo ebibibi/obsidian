@@ -127,5 +127,6 @@ git push -u origin <ローカルのブランチ名>
 
 ### リモートのブランチをローカルに持ってくる
 ```
-git branch <ブランチ名> origin/
+git branch <ブランチ名> origin/<ブランチ名>
 ```
+
