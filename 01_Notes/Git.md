@@ -13,5 +13,6 @@ git config --global user.email "ebibibi@gmail.com"
 ```
 git init
 git add .
-git commit -m "Initial commi"
+git commit -m "Initial commit"
+git remote add
 ```
