@@ -6,5 +6,5 @@
 ### 初期設定
 ```
 git config --global user.name "Masahiko Ebisuda"
-git
+git config --global user.emai
 ```
