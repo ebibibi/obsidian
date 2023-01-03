@@ -5,5 +5,6 @@
 
 ### 初期設定
 ```
-git config --global user.name "Masahiko"
+git config --global user.name "Masahiko Ebisuda"
+git
 ```
