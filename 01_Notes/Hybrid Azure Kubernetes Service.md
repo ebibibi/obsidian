@@ -78,4 +78,5 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 ## 参考記事
 - [パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
 - [Azure Kubernetes Service (AKS) ハイブリッド展開オプションのドキュメント | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/)
+- [Azure からの AKS ハイブリッド クラスター プロビジョニングの概要 (プレビュー) - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/aks-hybrid-preview-overview)
 
