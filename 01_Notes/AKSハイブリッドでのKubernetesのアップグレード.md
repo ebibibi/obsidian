@@ -1,7 +1,7 @@
 - アップグレードには2種類ある
-	- AKSクラスターのKubernetesバージョンを更新する
 	- Kubernetesのバージョンを更新せずにAKSクラスターのOSのバージョンを更新する
-- AKSホストのAzure K
+	- AKSクラスターのKubernetesバージョンを更新する
+- AKSホストのAzure Kubernetes Serviceの更新が常に最初の更新ステップとなる。必ずUpdate-AksHciClusterコマンドを実施する前に実施する必要がある。
 
 ## 頻度
 - 少なくとも60日に1回の更新が推奨されている。
