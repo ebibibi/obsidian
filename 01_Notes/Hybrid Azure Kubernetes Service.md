@@ -7,7 +7,7 @@ Hybrid Azure Kubernetes Service。
 	- 2021/5/25にGA
 		- [Azure Stack HCI の Azure Kubernetes Service (AKS) の一般提供が開始されました | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/azure-kubernetes-service-aks-on-azure-stack-hci-is-now-generally-available/)
 - AKS on Windows Server
-	- サポートされるのかされないのか
+	- サポートされるのかされないのかあいまいなｊ
 - Windows
 - Windows IoT
 
