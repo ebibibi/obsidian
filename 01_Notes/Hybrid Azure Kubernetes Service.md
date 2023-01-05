@@ -13,6 +13,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 	- サポートされるのかされないのか曖昧な状況が続いていたが、現在は明確にWindows Serverもサポートされることが記載されている。
 		- [Windows Admin Center を使って Azure Kubernetes Service on Azure Stack HCI and Windows Server を設定するクイックスタート - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/setup#setting-up-an-azure-kubernetes-service-host)
 		- [PowerShell を使用して Azure Stack HCI および Windows Server クラスター上に Kubernetes を設定する - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/kubernetes-walkthrough-powershell)
+		- [[AKS on Azure Stack HCI and Windows Server]]という表記もある。
 - Windows、Windows IoT
 	- AKS-IoT VMが動作する
 		- PC1台につきMariner Linux VM 1台
