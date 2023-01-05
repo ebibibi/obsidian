@@ -11,7 +11,10 @@
 - Azure ArcはWindows IoT Enterpriseもサポートする。
 	- WindowsのArcサポートのアナウンスは確認中…。
 - k8sとk3sの両方に対応
-	- 
+- 2 vCPUと4GBのRAMで動作する
+- KubernetesクラスタはHyper-Vで分離された仮想マシンで動作するためセキュアである
+- ワーカーノード用のLinuxとWindowsのOSイメージはマイクロソフトが管理する
+	- セキュリティ更新もマイクソフトがお
 
 
 ## 参考
