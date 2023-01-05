@@ -20,7 +20,9 @@
 Update-Module -Name AksHci -Force -AcceptLicense
 
 # 現在のAKSハイブリッドバージョンを取得
-Get-
+Get-AksHciVersion
+
+
 Update-AksHci #管理クラスターを最新バージョンに更新
 
 ```
