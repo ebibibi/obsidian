@@ -3,7 +3,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 - Azure Kubernetes Service(AKS)ハイブリッド展開オプション
 - AKS hybrid
 
-実態としてはAzureの拡張機能に
+実態としてはAzureの拡張機能に[]
 
 ## 何が狙いで何がメリットなのか？
 - オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
