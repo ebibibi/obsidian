@@ -27,7 +27,8 @@
 - カーネルからクラウドまで全部Microsoftのサポートが受けられる
 	- Windows IoTで10年間のサポート
 	- Linux VMのイメージ(CBL-Mariner)管理もMicrosoft
-	- 
+	- Kubernetesクラスタの管理もAzureから
+- 
 
 
 ## 参考
