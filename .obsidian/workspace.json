@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1859bdba3056182b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20a62845aa658d9e",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kuberntesのアップグレード.md"
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md"
               }
             }
           },
@@ -224,14 +236,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5256e779412ad810",
+  "active": "1859bdba3056182b",
   "lastOpenFiles": [
-    "01_Notes/Hybrid Azure Kubernetes Service.md",
+    "01_Notes/Azure.md",
     "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
+    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure Arcリソースブリッジ.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
     "01_Notes/Untitled.canvas",
-    "01_Notes/Azure.md",
     "home.md",
     "01_Notes/カスタムの場所.md",
     "01_Notes/IT関連の基礎技術.md",

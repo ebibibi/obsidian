@@ -45,7 +45,7 @@ Get-AksHciKubernetesVersion
 # 利用可能なKubernetesバージョンの取得
 Get-AksHciClusterUpdates -name myCluster
 
-# Kubernetesのバージョン更新
+# Kubernetesのバージョン更新(ワークロードクラスタのOSのバージョンも更新される)
 Update-AksHciCluster -name myCluster -kubernetesVersion vX.XX.X
 
 ```
