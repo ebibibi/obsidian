@@ -6,6 +6,7 @@
 - 展開には[[Windows Admin Center]]を使用するのが推奨とされている。[[Windows Admin Center]]を使う場合には下記の前提条件がある。
 	- Azureに登録済みである必要がある
 	- AKS展開先のAzure Stack HCIまたはWindows Serverと同じドメインに所属している必要がある
+- Windows Admin Centerを使わずにPowerShellを用いて構築する方法もある
 
 ### AKSをホストするフェールオーバークラスター
 - Azure Stack HCIあるいはWindows Server 2019/2022 Datacenterで構築されたフェールオーバークラスター
@@ -15,7 +16,7 @@
 - 言語とリージョンは**EN-US**である必要がある
 
 ## ネットワーク構成
-- AKSで使用でき
+- AKSで使用できクラスター上のVMからアクセスできる専用スコープのIPv4が必要
 
 ## 参考ドキュメント
 - [Azure Kubernetes Service on Azure Stack HCI and Windows Server を使用したオンプレミスの Kubernetes とは - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/overview)
