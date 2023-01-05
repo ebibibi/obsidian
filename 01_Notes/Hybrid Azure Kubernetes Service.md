@@ -80,7 +80,7 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 
 ## ライセンス
 - SA特典でAKS on Azure Stack HCI, AKS on Windows Serverが利用可能
-- SAと
+- SA特典でAzure Stack HCI OSが利用可能
 
 ## 参考記事
 - [パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
