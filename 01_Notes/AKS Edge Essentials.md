@@ -1,3 +1,4 @@
+- 以前はAKS for light edge devicesという名前だった。
 - WindowsおよびWindows IoTをメインターゲットとした軽量のAKS
 	- Windows 10と11
 	- IoT Enterprise, Enterprise, Pro
