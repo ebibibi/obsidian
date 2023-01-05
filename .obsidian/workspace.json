@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-05.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-05.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-05.md"
+                "file": "01_Notes/AKS Edge Essentials.md"
               }
             }
           },
@@ -249,17 +250,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c7642a3006200e1",
+  "active": "c87311a6870860be",
   "lastOpenFiles": [
+    "01_Notes/Azure.md",
+    "03_Daily Notes/2023-01-05.md",
     "01_Notes/AKS Edge Essentials.md",
     "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
     "01_Notes/Azure Arcリソースブリッジ.md",
     "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
-    "01_Notes/Azure.md",
     "01_Notes/Untitled.canvas",
     "home.md",
-    "01_Notes/カスタムの場所.md",
-    "01_Notes/IT関連の基礎技術.md"
+    "01_Notes/カスタムの場所.md"
   ]
 }

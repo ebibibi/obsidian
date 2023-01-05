@@ -24,7 +24,9 @@
 - Azure ArcでAzureに接続し、Azureからほかの種類のKubernetesと一緒に統合管理が可能。
 - Windowsアプリケーションと同時に利用することが可能。
 	- Windowsアプリとの連携も可能
-- 
+- カーネルからクラウドまで全部Microsoftのサポートが受けられる
+	- Windows IoTで10年間のサポート
+	- Linux VM(CBL-Mari)
 
 
 ## 参考
