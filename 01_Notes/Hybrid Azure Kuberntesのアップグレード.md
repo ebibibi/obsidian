@@ -39,8 +39,14 @@ Get-AksHciVersion
 # Kubernetesの更新 #
 ###################
 
-# 利用可能なKubernete
+# 利用可能なKubernetesバージョンの取得
 Get-AksHciKubernetesVersion
+
+# 利用可能なKubernetesバージョンの取得
+Get-AksHciClusterUpdates -name myCluster
+
+# Kubernetesのバージョン更新
+Update-AksHciCluster -name myCluster -kubernetesVersion vX.XX.X
 
 ```
 
