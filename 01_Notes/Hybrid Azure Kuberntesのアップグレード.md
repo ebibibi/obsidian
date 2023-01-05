@@ -16,7 +16,7 @@
 
 ## コマンド
 ```
-# PowerShellm
+# PowerShellモジュールを最新にする
 Update-Module -Name AksHci -Force -AcceptLicense
 Update-AksHci #管理クラスターを最新バージョンに更新
 
