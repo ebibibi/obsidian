@@ -6,10 +6,10 @@
 -   AKS ハイブリッド クラスターとノードプールを削除する
 
 ## 使用できるサービス
--   Azure Defender
--   GitOps v2
--  オープン サービスメッシュ
--   Azure Key Vault
+-  Azure Defender
+-  GitOps v2
+-  オープンサービスメッシュ
+-  Azure Key Vault
 
 ## 参考
 - [Azure からの AKS ハイブリッド クラスター プロビジョニングの概要 (プレビュー) - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/aks-hybrid-preview-overview)
