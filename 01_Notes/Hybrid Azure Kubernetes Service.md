@@ -78,6 +78,10 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 - Mariner Linux
 	- Microsoftが開発するLinuxディストリビューション
 
+## ライセンス
+- SA特典でAKS on Azure Stack HCI, AKS on Windows Serverが利用可能
+- SAと
+
 ## 参考記事
 - [パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
 - [Azure Kubernetes Service (AKS) ハイブリッド展開オプションのドキュメント | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/)
