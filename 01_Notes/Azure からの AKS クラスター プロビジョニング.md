@@ -8,7 +8,7 @@
 ## 使用できるサービス
 -   Azure Defender
 -   GitOps v2
--   サービスメッシュを開く
+-  おー サービスメッシュ
 -   Azure Key Vault
 
 ## 参考
