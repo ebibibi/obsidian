@@ -20,7 +20,26 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 
 ## 何がメリットなのか？
 - オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
-	- 
+
+### 管理、保守
+- LinuxホストとWindowsホストの両方に対応
+- アップグレード
+- 証明書の自動ローテーション
+- Azure Arcにネイティブで接続し、Azureから管理可能
+	- Azure Portal経由でAKSクラスターに接続可能
+	- GitOps, Azure Policy
+	- SQL Managed Instance, PostgreSQL Hyperscale
+- Azure AD認証
+- Azure Defenderによるガバナンスとセキュリティ
+- Azure Monitorによるログ記録と監視
+
+### デプロイ
+AKSでは重要なアドオンのセットアップやKubernetesクラスターの作成に使用できるウィザードを利用可能
+- PowerShell
+- Windows Admin Center
+- Azure CLI(プレビュー)
+- Azure Portal(プレビュー)
+- Azure Resorce Managerテンプレート(プレビュー)
 
 ## どんな環境でAKSが動くのか？
 - Mariner Linux
