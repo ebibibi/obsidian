@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md"
+                "file": "01_Notes/AKS Edge Essentials.md"
               }
             }
           },
@@ -231,7 +231,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,11 +252,11 @@
   },
   "active": "e97fbd25929774ac",
   "lastOpenFiles": [
+    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/AKS Edge Essentials.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
     "01_Notes/Azure Arcリソースブリッジ.md",
     "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
-    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure.md",
     "01_Notes/Untitled.canvas",
     "home.md",
