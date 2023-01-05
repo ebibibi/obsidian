@@ -47,7 +47,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 ### 管理、保守
 - LinuxホストとWindowsホストの両方に対応
 	- Linux, WindowsのOSを直接管理する必要なし
-- アップグレード
+- [[AKSハイブリッドでのKubernetesのアップグレード]]
 - 証明書の自動ローテーション
 - Azure Arcにネイティブで接続し、Azureから管理可能
 	- Azure Portal経由でAKSクラスターに接続可能
