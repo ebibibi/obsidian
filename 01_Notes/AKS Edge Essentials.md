@@ -19,6 +19,8 @@
 	- ローカル実行
 	- Azure Arc for Server
 	- Microsoft Endpoint Configuration Manager
+- マイクロソフトがOSおよびKubernetesの自動更新も提供する(予定？)
+- 
 
 
 ## 参考
