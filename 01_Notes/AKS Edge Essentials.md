@@ -26,7 +26,7 @@
 	- Windowsアプリとの連携も可能
 - カーネルからクラウドまで全部Microsoftのサポートが受けられる
 	- Windows IoTで10年間のサポート
-	- Linux VM(CBL-Mariner)のイメージ
+	- Linux VMのイメージ(CBL-Mariner)
 
 
 ## 参考
