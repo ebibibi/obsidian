@@ -5,7 +5,6 @@
 - Windows Server上でも動作する
 - 2022/10/12にパブリックプレビューとなった
 - 小売店や医療機関での展開などがメインの想定
-- LinuxおよびWindowsワークロードの両方をサポートする
 - Azure Arcにネイティブ対応し、Azureからの管理が可能
 - もちろんAzure Arcに対応。
 - Azure ArcはWindows IoT Enterpriseもサポートする。
@@ -20,7 +19,10 @@
 	- Azure Arc for Server
 	- Microsoft Endpoint Configuration Manager
 - マイクロソフトがOSおよびKubernetesの自動更新も提供する(予定？)
-- 
+- LinuxおよびWindowsワークロードの両方をサポートする
+	- 構築時にLinuxのみかLinuxとWindowsの両方かを選択可能
+- Azure ArcでAzureに接続し、Azureからほかの種類のKubernetesと一緒に統合管理が可能。
+- Windowsアプリケーションと同時に利用することが可能。
 
 
 ## 参考
