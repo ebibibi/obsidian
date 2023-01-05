@@ -5,7 +5,7 @@
 -   AKS ハイブリッド クラスターに Linux ノードプールと Windows ノードプールを追加/一覧表示/表示する
 -   AKS ハイブリッド クラスターとノードプールを削除する
 
-## しよ
+## 使用できるサービス
 
 ## 参考
 - [Azure からの AKS ハイブリッド クラスター プロビジョニングの概要 (プレビュー) - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/aks-hybrid-preview-overview)
