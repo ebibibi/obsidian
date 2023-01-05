@@ -16,7 +16,7 @@
 
 ## コマンド
 ```
-Update-Module -Name AksHci -Force -AcceptLicense
+Update-Module -Name AksHci -Force -AcceptLicense #
 Update-AksHci #管理クラスターを最新バージョンに更新
 
 ```
