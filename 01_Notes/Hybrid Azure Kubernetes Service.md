@@ -3,6 +3,10 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 - Azure Kubernetes Service(AKS)ハイブリッド展開オプション
 - AKS hybrid
 
+## 何が狙いで何がメリットなのか？
+- オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
+- 全てのAKSクラスター(※Azure上でもオンプレミスでも他クラウドのマネージドKubernetesでも)に対して一貫したユーザーエクスペリエンスを提供する
+
 ## AKSを動かせる場所が広がる話
 - AKS on Azure Stack HCIはHybrid Azure Kubernetes Service
 	- 2020/9/22にパブリックプレビュー
@@ -29,7 +33,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 |Azure Stack HCI 上の AKS|Azure Stack HCI 21H2|メモリ: ノード|単一ノードまたは|ローカル PowerShell|Azure Arc の手動統合|
 |||あたり 30 GB CPU コア: ノードあたり|2 から 8 ノードの Azure Stack HCI クラスター|Windows Admin Center||
 |||16 ディスク領域: ノードあたり 128 GB||||
-|Azure からの AKS クラスター プロビジョニング (プレビュー)|Windows Server 2019|メモリ: ノード|単一ノードまたは|Azure Portal|Azure Arc の自動統合|
+|[[Azure からの AKS クラスター プロビジョニング]] (プレビュー)|Windows Server 2019|メモリ: ノード|単一ノードまたは|Azure Portal|Azure Arc の自動統合|
 ||Windows Server 2022|あたり 32 GB CPU コア: ノードあたり|2 ノード クラスター|Azure CLI||
 ||Azure Stack HCI 21H2|16 ディスク領域: ノードあたり 128 GB||Azure Resource Manager テンプレート||
 |AKS Edge Essentials (プレビュー)|Windows 10/11 IoT Enterprise|空きメモリ: > 2 GB|いいえ|ローカル PowerShell|Azure Arc の手動統合|
@@ -37,9 +41,6 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 ||Windows 10/11 Pro|クロック速度: 1.8 GHz||||
 ||Windows Server 2019/2022|空きディスク領域: 14 GB||||
 
-
-## 何がメリットなのか？
-- オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
 
 ### 管理、保守
 - LinuxホストとWindowsホストの両方に対応
