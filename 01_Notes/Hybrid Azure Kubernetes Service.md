@@ -19,7 +19,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 		- インストール時に決定したRAM, ストレージ、CPUコア数が静的に制限される
 
 ## 何がメリットなのか？
-- オンプレミスのKubernetesクラスターの管理、デプロイ、保守が
+- オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
 
 ## どんな環境でAKSが動くのか？
 - Mariner Linux
