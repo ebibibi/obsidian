@@ -9,8 +9,13 @@
 
 ### AKSをホストするフェールオーバークラスター
 - Azure Stack HCIあるいはWindows Server 2019/2022 Datacenterで構築されたフェールオーバークラスター
-- 
+- クラスターのノード数は8以下であること(※Windows Serverとしてのフェールオーバークラスタの最大ノード数は64台。Storage Spaces Directとしての最大ノード数は16。)
+- AKSの記憶域プールで1TB利用可能
+- AKS VMの実行に30GB以上利用可能
+- 言語とリージョンは**EN-US**である必要がある
 
+## ネットワーク構成
+- AKSで使用でき
 
 ## 参考ドキュメント
 - [Azure Kubernetes Service on Azure Stack HCI and Windows Server を使用したオンプレミスの Kubernetes とは - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/overview)
