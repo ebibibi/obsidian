@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4c7642a3006200e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Daily Notes/2023-01-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "db0896d3626468ad",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +180,7 @@
   "active": "db0896d3626468ad",
   "lastOpenFiles": [
     "03_Daily Notes/2023-01-05.md",
+    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Git.md",
     "01_Notes/2023-01-05.md",
     "03_Daily Notes/2023-01-04.md",
@@ -174,7 +188,6 @@
     "03_Daily Notes/2023-01-02.md",
     "01_Notes/IT関連の基礎技術.md",
     "home.md",
-    "99_Templates/Daily Notes.md",
-    "03_Daily Notes/2022-12-30.md"
+    "99_Templates/Daily Notes.md"
   ]
 }
