@@ -15,7 +15,10 @@
 - KubernetesクラスタはHyper-Vで分離された仮想マシンで動作するためセキュアである
 - ワーカーノード用のLinuxとWindowsのOSイメージはマイクロソフトが管理する
 	- セキュリティ更新もマイクソフトが行う
-- 
+- PowerShellで簡単に展開可能。
+	- ローカル実行
+	- Azure Arc for Server
+	- Microsoft Endpoint Configuration Manager
 
 
 ## 参考
