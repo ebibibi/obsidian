@@ -16,7 +16,7 @@
 
 ## コマンド
 ```
-# PowerShellモジュールを最新にする(全ノードでの)
+# PowerShellモジュールを最新にする(全ノードでの[実行]をクリ)
 Update-Module -Name AksHci -Force -AcceptLicense
 
 # 現在のAKSハイブリッドバージョンを取得
