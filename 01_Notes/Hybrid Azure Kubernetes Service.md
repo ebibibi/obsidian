@@ -23,6 +23,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 
 ### 管理、保守
 - LinuxホストとWindowsホストの両方に対応
+	- Linux, WindowsのOSを直接管理する必要なし
 - アップグレード
 - 証明書の自動ローテーション
 - Azure Arcにネイティブで接続し、Azureから管理可能
@@ -32,6 +33,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 - Azure AD認証
 - Azure Defenderによるガバナンスとセキュリティ
 - Azure Monitorによるログ記録と監視
+- Kubernetesノードプールの自動スケール
 
 ### デプロイ
 AKSでは重要なアドオンのセットアップやKubernetesクラスターの作成に使用できるウィザードを利用可能
@@ -41,7 +43,12 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 - Azure Portal(プレビュー)
 - Azure Resorce Managerテンプレート(プレビュー)
 
-## SDN
+### SDN
+- AKS on Azure Stack HCIのSDN統合(プレビュー)を使用して仮想ネットワークにAKS-HCIノードをアタッチ可能。
+- SND Software Load Balancerを用いてコンテナー化されたアプリケーションにロードバランサーサービスを提供可能
+
+### GPU対応
+- GPUパススルー(ディスクリートデバイス割り当て)を利用してNVIDIA Tesla T4 GPU上にGPU対応ノードプールをデプロイ可能
 
 ## どんな環境でAKSが動くのか？
 - Mariner Linux
