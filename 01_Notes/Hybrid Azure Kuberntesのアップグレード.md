@@ -25,6 +25,7 @@ Get-AksHciVersion
 # 利用可能なAKSハイブリッド更新プログラムの取得
 Get-AksHciUpdates
 
+# 
 
 Update-AksHci #管理クラスターを最新バージョンに更新
 
