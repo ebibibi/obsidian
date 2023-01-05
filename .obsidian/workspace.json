@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/AKS Edge Essentials.md",
+                "file": "03_Daily Notes/2023-01-05.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/AKS Edge Essentials.md",
+                "file": "03_Daily Notes/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/AKS Edge Essentials.md"
+                "file": "03_Daily Notes/2023-01-05.md"
               }
             }
           },
@@ -250,10 +249,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e97fbd25929774ac",
+  "active": "4c7642a3006200e1",
   "lastOpenFiles": [
-    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/AKS Edge Essentials.md",
+    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
     "01_Notes/Azure Arcリソースブリッジ.md",
     "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",

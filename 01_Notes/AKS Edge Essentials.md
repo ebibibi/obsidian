@@ -23,6 +23,8 @@
 	- 構築時にLinuxのみかLinuxとWindowsの両方かを選択可能
 - Azure ArcでAzureに接続し、Azureからほかの種類のKubernetesと一緒に統合管理が可能。
 - Windowsアプリケーションと同時に利用することが可能。
+	- Windowsアプリとの連携も可能
+- 
 
 
 ## 参考
