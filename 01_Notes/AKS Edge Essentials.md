@@ -11,6 +11,7 @@
 - Azure ArcはWindows IoT Enterpriseもサポートする。
 	- WindowsのArcサポートのアナウンスは確認中…。
 - k8sとk3sの両方に対応
+	- 
 
 
 ## 参考
