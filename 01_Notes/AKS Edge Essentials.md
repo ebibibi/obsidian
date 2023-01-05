@@ -1,4 +1,7 @@
 - WindowsおよびWindows IoTをメインターゲットとした軽量のAKS
+	- Windows 10と11
+	- IoT Enterprise, Enterprise, Pro
+	- Windows Server
 - Windows Server上でも動作する
 - 2022/10/12にパブリックプレビューとなった
 - 小売店や医療機関での展開などがメインの想定
