@@ -18,6 +18,25 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 		- PC1台につきMariner Linux VM 1台
 		- インストール時に決定したRAM, ストレージ、CPUコア数が静的に制限される
 
+## 展開の選択肢
+
+|AKS ハイブリッドデプロイ オプション|ホスト OS|最小コンピューティング要件|フェールオーバー クラスタリングのサポート|AKS クラスター管理ツール|Azure Arc の統合|
+|:--|:--|:--|:--|:--|:--|
+|Windows Server 上の AKS|Windows Server 2019|メモリ: ノード|単一ノードまたは|ローカル PowerShell|Azure Arc の手動統合|
+||Windows Server 2022|あたり 30 GB CPU コア: ノードあたり|2 から 8 ノードのフェールオーバー クラスター|Windows Admin Center||
+|||16 ディスク領域: ノードあたり 128 GB||||
+|Azure Stack HCI 上の AKS|Azure Stack HCI 21H2|メモリ: ノード|単一ノードまたは|ローカル PowerShell|Azure Arc の手動統合|
+|||あたり 30 GB CPU コア: ノードあたり|2 から 8 ノードの Azure Stack HCI クラスター|Windows Admin Center||
+|||16 ディスク領域: ノードあたり 128 GB||||
+|Azure からの AKS クラスター プロビジョニング (プレビュー)|Windows Server 2019|メモリ: ノード|単一ノードまたは|Azure Portal|Azure Arc の自動統合|
+||Windows Server 2022|あたり 32 GB CPU コア: ノードあたり|2 ノード クラスター|Azure CLI||
+||Azure Stack HCI 21H2|16 ディスク領域: ノードあたり 128 GB||Azure Resource Manager テンプレート||
+|AKS Edge Essentials (プレビュー)|Windows 10/11 IoT Enterprise|空きメモリ: > 2 GB|いいえ|ローカル PowerShell|Azure Arc の手動統合|
+||Windows 10/11 Enterprise|CPU コア: 2||||
+||Windows 10/11 Pro|クロック速度: 1.8 GHz||||
+||Windows Server 2019/2022|空きディスク領域: 14 GB||||
+
+
 ## 何がメリットなのか？
 - オンプレミスのKubernetesクラスターの管理、デプロイ、保守が簡単になる。
 
@@ -54,6 +73,7 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 - Mariner Linux
 	- Microsoftが開発するLinuxディストリビューション
 
-[パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
-
+## 参考記事
+- [パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
+- [Azure Kubernetes Service (AKS) ハイブリッド展開オプションのドキュメント | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/)
 
