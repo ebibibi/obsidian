@@ -11,20 +11,20 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 
 ## AKSを動かせる場所が広がる話
 - [[AKS on Azure Stack HCI and Windows Server]]
-- AKS on Azure Stack HCI
-	- 2020/9/22にパブリックプレビュー
-		- [Azure Kubernetes Service on Azure Stack HCI now in public preview | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/azure-kubernetes-service-on-azure-stack-hci-now-in-public-preview/)
-	- 2021/5/25にGA
-		- [Azure Stack HCI の Azure Kubernetes Service (AKS) の一般提供が開始されました | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/azure-kubernetes-service-aks-on-azure-stack-hci-is-now-generally-available/)
-- AKS on Windows Server
-	- サポートされるのかされないのか曖昧な状況が続いていたが、現在は明確にWindows Serverもサポートされることが記載されている。
-		- [Windows Admin Center を使って Azure Kubernetes Service on Azure Stack HCI and Windows Server を設定するクイックスタート - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/setup#setting-up-an-azure-kubernetes-service-host)
-		- [PowerShell を使用して Azure Stack HCI および Windows Server クラスター上に Kubernetes を設定する - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/kubernetes-walkthrough-powershell)
-		- 
-- Windows、Windows IoT
-	- AKS-IoT VMが動作する
-		- PC1台につきMariner Linux VM 1台
-		- インストール時に決定したRAM, ストレージ、CPUコア数が静的に制限される
+	- AKS on Azure Stack HCI
+		- 2020/9/22にパブリックプレビュー
+			- [Azure Kubernetes Service on Azure Stack HCI now in public preview | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/azure-kubernetes-service-on-azure-stack-hci-now-in-public-preview/)
+		- 2021/5/25にGA
+			- [Azure Stack HCI の Azure Kubernetes Service (AKS) の一般提供が開始されました | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/azure-kubernetes-service-aks-on-azure-stack-hci-is-now-generally-available/)
+	- AKS on Windows Server
+		- サポートされるのかされないのか曖昧な状況が続いていたが、現在は明確にWindows Serverもサポートされることが記載されている。
+			- [Windows Admin Center を使って Azure Kubernetes Service on Azure Stack HCI and Windows Server を設定するクイックスタート - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/setup#setting-up-an-azure-kubernetes-service-host)
+			- [PowerShell を使用して Azure Stack HCI および Windows Server クラスター上に Kubernetes を設定する - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/kubernetes-walkthrough-powershell)
+- [[AKS Edge Essentials]]
+	- Windows、Windows IoT
+		- AKS-IoT VMが動作する
+			- PC1台につきMariner Linux VM 1台
+			- インストール時に決定したRAM, ストレージ、CPUコア数が静的に制限される
 
 ## 展開の選択肢
 
@@ -39,7 +39,7 @@ Hybrid Azure Kubernetes Service。名称は揺れており、現在のドキュ�
 |[[Azure からの AKS クラスター プロビジョニング]] (プレビュー)|Windows Server 2019|メモリ: ノード|単一ノードまたは|Azure Portal|Azure Arc の自動統合|
 ||Windows Server 2022|あたり 32 GB CPU コア: ノードあたり|2 ノード クラスター|Azure CLI||
 ||Azure Stack HCI 21H2|16 ディスク領域: ノードあたり 128 GB||Azure Resource Manager テンプレート||
-|AKS Edge Essentials (プレビュー)|Windows 10/11 IoT Enterprise|空きメモリ: > 2 GB|いいえ|ローカル PowerShell|Azure Arc の手動統合|
+|[[AKS Edge Essentials]] (プレビュー)|Windows 10/11 IoT Enterprise|空きメモリ: > 2 GB|いいえ|ローカル PowerShell|Azure Arc の手動統合|
 ||Windows 10/11 Enterprise|CPU コア: 2||||
 ||Windows 10/11 Pro|クロック速度: 1.8 GHz||||
 ||Windows Server 2019/2022|空きディスク領域: 14 GB||||
@@ -81,4 +81,5 @@ AKSでは重要なアドオンのセットアップやKubernetesクラスター�
 ## 参考記事
 - [パブリック プレビュー:Azure Kubernetes Service ハイブリッド デプロイ オプション | Azure の更新情報 | Microsoft Azure](https://azure.microsoft.com/ja-jp/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/)
 - [Azure Kubernetes Service (AKS) ハイブリッド展開オプションのドキュメント | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/)
-- [Azure からの AKS ハイブリッド クラスター プロビジョニングの概要 (プレビュー) - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp
+- [Azure からの AKS ハイブリッド クラスター プロビジョニングの概要 (プレビュー) - AKS hybrid | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/aks/hybrid/aks-hybrid-preview-overview)
+
