@@ -1,7 +1,7 @@
 - アップグレードには2種類ある
-	- Kubernetesのバージョンを更新せずにAKSクラスターのOSのバージョンを更新する
-	- AKSクラスターのKubernetesバージョンを更新する
-- AKSのホストクラスターの更新が常に最初の更新ステップとなる。最後がKubernetesバージョンの更新となる。
+	- Kubernetesのバージョンを更新せずにAKSハイブリッドホストを更新する
+	- Kubernetesバージョンを更新する
+- AKSハイブリッドホストの更新が常に最初の更新ステップとなる。最後がKubernetesバージョンの更新となる。
 
 ## 頻度
 - AKSハイブリッドホスト
@@ -16,7 +16,9 @@
 
 ## PowerShellでのアップグレードプロセス実行例
 ```
-#AKSクラスターのホスト
+#############################
+# AKSハイブリッドホストの更新 #
+#############################
 
 # PowerShellモジュールを最新にする(全ノードでの実行)
 Update-Module -Name AksHci -Force -AcceptLicense
@@ -33,7 +35,12 @@ Update-AksHci
 # AKSホストが更新されたことを確認する
 Get-AksHciVersion
 
-# 
+###################
+# Kubernetesの更新 #
+###################
+
+# 利用可能なKubernete
+Get-AksHciKubernetesVersion
 
 ```
 
