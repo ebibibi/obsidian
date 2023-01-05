@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e97fbd25929774ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1859bdba3056182b",
             "type": "leaf",
             "state": {
@@ -236,11 +248,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1859bdba3056182b",
+  "active": "e97fbd25929774ac",
   "lastOpenFiles": [
     "01_Notes/Azure.md",
-    "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
     "01_Notes/Hybrid Azure Kubernetes Service.md",
+    "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
     "01_Notes/Azure Arcリソースブリッジ.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
     "01_Notes/Untitled.canvas",
