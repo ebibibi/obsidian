@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-06.md",
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-06.md",
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-06.md"
+                "file": "01_Notes/Hybrid Azure Kubernetes Service.md"
               }
             }
           },
@@ -237,12 +238,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db0896d3626468ad",
+  "active": "1859bdba3056182b",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-06.md",
     "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure.md",
     "03_Daily Notes/2023-01-05.md",
-    "03_Daily Notes/2023-01-06.md",
     "03_Daily Notes/2022-12-30.md",
     "01_Notes/AKS Edge Essentials.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
