@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
+                "file": "01_Notes/AKS Edge Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md"
+                "file": "01_Notes/AKS Edge Essentials.md"
               }
             }
           },
@@ -240,11 +240,11 @@
   },
   "active": "1859bdba3056182b",
   "lastOpenFiles": [
+    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/AKS Edge Essentials.md",
     "03_Daily Notes/2023-01-04.md",
     "03_Daily Notes/2023-01-05.md",
     "03_Daily Notes/2023-01-06.md",
-    "01_Notes/Hybrid Azure Kubernetes Service.md",
     "01_Notes/Azure.md",
     "03_Daily Notes/2022-12-30.md",
     "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
