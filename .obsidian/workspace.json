@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -247,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db0896d3626468ad",
+  "active": "6d6e99469faf439c",
   "lastOpenFiles": [
     "03_Daily Notes/2023-01-05.md",
     "03_Daily Notes/2023-01-04.md",
