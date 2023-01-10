@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99_Extra",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Notes",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
+}
