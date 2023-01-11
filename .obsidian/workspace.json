@@ -19,8 +19,12 @@
             "id": "c11225a19dfe48c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03_Daily Notes/2023-01-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_Daily Notes/2023-01-12.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -178,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03_Daily Notes/2023-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03_Daily Notes/2023-01-12.md"
+              }
             }
           },
           {
