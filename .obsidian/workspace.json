@@ -43,8 +43,12 @@
             "id": "bfc3153ea9e68f56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03_Daily Notes/2023-01-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -120,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfa74d358ab9de8c",
+  "active": "bfc3153ea9e68f56",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "03_Daily Notes/2023-01-12.md",
