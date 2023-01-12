@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-11.md",
+                "file": "03_Daily Notes/2023-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03_Daily Notes/2023-01-11.md",
+            "file": "03_Daily Notes/2023-01-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03_Daily Notes/2023-01-11.md",
+            "file": "03_Daily Notes/2023-01-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "03_Daily Notes/2023-01-11.md"
+            "file": "03_Daily Notes/2023-01-12.md"
           }
         }
       },
@@ -139,6 +139,7 @@
   },
   "active": "e459b30ac33419d2",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-11.md",
     "home.md",
     "01_Notes/画像生成AI.md",
     "01_Notes/AI.md",
@@ -147,7 +148,6 @@
     "03_Daily Notes/2023-01-03.md",
     "NTLM認証.md",
     "ファイル共有 - ワークグループでNTLM認証.md",
-    "ファイル共有.md",
-    "Azure FilesでKerberos認証.md"
+    "ファイル共有.md"
   ]
 }
