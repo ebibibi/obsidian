@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db0896d3626468ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Daily Notes/2023-01-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfa74d358ab9de8c",
             "type": "leaf",
             "state": {
@@ -30,101 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c11225a19dfe48c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Daily Notes/2023-01-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfc3153ea9e68f56",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e97fbd25929774ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/AKS Edge Essentials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1859bdba3056182b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/Azure からの AKS クラスター プロビジョニング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a62845aa658d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/Hybrid Azure Kubernetes Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5256e779412ad810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/Hybrid Azure Kuberntesのアップグレード.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9550e76f43ffbea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/Azure Arcリソースブリッジ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c87311a6870860be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Daily Notes/2023-01-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
