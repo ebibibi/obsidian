@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-16.md",
+                "file": "03_Daily Notes/2023-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-16.md",
+                "file": "03_Daily Notes/2023-01-17.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-16.md",
+                "file": "03_Daily Notes/2023-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-16.md"
+                "file": "03_Daily Notes/2023-01-17.md"
               }
             }
           },
@@ -271,6 +271,7 @@
   },
   "active": "bfa74d358ab9de8c",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-16.md",
     "03_Daily Notes/2023-01-14.md",
     "03_Daily Notes/2023-01-12.md",
     "03_Daily Notes/2023-01-13.md",
@@ -279,7 +280,6 @@
     "conflict-files-obsidian-git.md",
     "home.md",
     "03_Daily Notes/2023-01-09.md",
-    "03_Daily Notes/2023-01-11-win11main2f.md",
-    "03_Daily Notes/2023-01-10.md"
+    "03_Daily Notes/2023-01-11-win11main2f.md"
   ]
 }
