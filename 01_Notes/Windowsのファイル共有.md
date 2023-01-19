@@ -1,3 +1,4 @@
 - [[ファイル共有 - ワークグループでNTLM認証]]
 - [[Active DirectoryでKerberos認証]]
 - [[Azure FilesでKerberos認証]]
+- [[SMB over QUICK]]
