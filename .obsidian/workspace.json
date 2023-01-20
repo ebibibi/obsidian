@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/SMB over QUICK.md",
+                "file": "03_Daily Notes/2023-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/SMB over QUICK.md",
+                "file": "03_Daily Notes/2023-01-20.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/SMB over QUICK.md",
+                "file": "03_Daily Notes/2023-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/SMB over QUICK.md"
+                "file": "03_Daily Notes/2023-01-20.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,16 +190,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "834a2e1a6cb7a57c",
+  "active": "6d6e99469faf439c",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-19.md",
+    "03_Daily Notes/2023-01-20.md",
+    "01_Notes/SMB over QUICK.md",
     "01_Notes/Windowsのファイル共有.md",
     "01_Notes/IT関連の基礎技術.md",
     "01_Notes/ファイル共有 - ワークグループでNTLM認証.md",
-    "03_Daily Notes/2023-01-19.md",
     "03_Daily Notes/2023-01-17.md",
     "03_Daily Notes/2023-01-16.md",
     "03_Daily Notes/2023-01-14.md",
-    "03_Daily Notes/2023-01-12.md",
-    "03_Daily Notes/2023-01-13.md"
+    "03_Daily Notes/2023-01-12.md"
   ]
 }
