@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/自動で無音部分をカットする方法.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/自動で無音部分をカットする方法.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/自動で無音部分をカットする方法.md"
+                "file": "home.md"
               }
             }
           },
