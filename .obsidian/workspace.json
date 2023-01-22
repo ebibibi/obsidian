@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md"
               }
             }
           },
@@ -241,11 +241,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d6e99469faf439c",
+  "active": "39463951e98be9d1",
   "lastOpenFiles": [
+    "home.md",
     "01_Notes/動画編集作業を楽にするためのショートカット.md",
     "01_Notes/映像編集ソフト.md",
-    "home.md",
     "01_Notes/自動で無音部分をカットする方法.md",
     "01_Notes/AI.md",
     "01_Notes/ChatGPT.md",
