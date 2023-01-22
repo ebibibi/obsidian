@@ -1,0 +1,3 @@
+- [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+- サンフランシスコのAI研究機関であるOpenAIが開発した、事前学習による自然言語技術処理モデルの一つ。人間と区別がつかないほどの自然な文章を作成可能であり、様々な用途に利用可能。
+- あまりにも高機能なので世の中が変わってしまうと思う。(個人の感想です。)

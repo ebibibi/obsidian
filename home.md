@@ -23,13 +23,12 @@
 - ObsidianのノートをWordpressに発行する際に使っているプラグイン
 	- [GitHub - devbean/obsidian-wordpress: An obsidian plugin for publishing docs to WordPress.](https://github.com/devbean/obsidian-wordpress)
 
-
-
 ## IT関連
 仕事がSIer勤務なのでIT系のメモを取ることが多いはずです。メモが増えてなかったら仕事してないのでしょう…。
 - [[Azure]]、[[Microsoft 365]]、[[Windows]]関連が多くなるはず
 - [[IT関連の基礎技術]]に関してもまとめたいと思っています
 - [[AI]]の進歩が目覚ましいので自分の興味あるところだけまとめておきます。
+- [[映像編集ソフト]]
 
 ## 投資関連
 投資関連もきちんと理解しておきたい。

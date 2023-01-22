@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-20.md",
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39463951e98be9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce911e4ef7fc446a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/自動で無音部分をカットする方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebbad02177bff4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/チャットAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab8cfcb630fa33e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,8 +86,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "542bce3cd6305d86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-20.md",
+                "file": "01_Notes/自動で無音部分をカットする方法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -122,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-20.md",
+                "file": "01_Notes/自動で無音部分をカットする方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-20.md"
+                "file": "01_Notes/自動で無音部分をカットする方法.md"
               }
             }
           },
@@ -184,17 +241,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfa74d358ab9de8c",
+  "active": "6d6e99469faf439c",
   "lastOpenFiles": [
-    "01_Notes/IT関連の基礎技術.md",
-    "01_Notes/Windowsのファイル共有.md",
-    "03_Daily Notes/2023-01-20.md",
-    "03_Daily Notes/2023-01-19.md",
-    "01_Notes/SMB over QUICK.md",
-    "01_Notes/ファイル共有 - ワークグループでNTLM認証.md",
-    "03_Daily Notes/2023-01-17.md",
-    "03_Daily Notes/2023-01-16.md",
-    "03_Daily Notes/2023-01-14.md",
-    "03_Daily Notes/2023-01-12.md"
+    "01_Notes/動画編集作業を楽にするためのショートカット.md",
+    "01_Notes/映像編集ソフト.md",
+    "home.md",
+    "01_Notes/自動で無音部分をカットする方法.md",
+    "01_Notes/AI.md",
+    "01_Notes/ChatGPT.md",
+    "01_Notes/チャットAI.md",
+    "03_Daily Notes/2023-01-22.md",
+    "03_Daily Notes/2023-01-21.md",
+    "03_Daily Notes/2023-01-20.md"
   ]
 }
