@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Chocolatey.md",
+                "file": "03_Daily Notes/2023-01-23.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Chocolatey.md",
+                "file": "03_Daily Notes/2023-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Chocolatey.md"
+                "file": "03_Daily Notes/2023-01-23.md"
               }
             }
           },
@@ -253,8 +253,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ca5d3162bc95360",
+  "active": "39463951e98be9d1",
   "lastOpenFiles": [
+    "01_Notes/Chocolatey.md",
     "03_Daily Notes/2023-01-23.md",
     "01_Notes/Windowsの日本語化(PowerShell).md",
     "03_Daily Notes/2023-01-22.md",
@@ -263,7 +264,6 @@
     "home.md",
     "01_Notes/映像編集ソフト.md",
     "01_Notes/自動で無音部分をカットする方法.md",
-    "01_Notes/AI.md",
-    "01_Notes/ChatGPT.md"
+    "01_Notes/AI.md"
   ]
 }
