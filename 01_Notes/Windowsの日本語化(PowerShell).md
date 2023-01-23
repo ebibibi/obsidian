@@ -1,4 +1,4 @@
-下記コマンドをPowerShellで実行する
+下記コマンドをPowerShellで実行する。ただしそれなりに新しいWindows 10, 11でないと実行できない。
 
 ```
 Install-Language ja-JP -CopyToSettings
