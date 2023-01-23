@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
+                "file": "03_Daily Notes/2023-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
+                "file": "03_Daily Notes/2023-01-23.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md",
+                "file": "03_Daily Notes/2023-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/動画編集作業を楽にするためのショートカット.md"
+                "file": "03_Daily Notes/2023-01-23.md"
               }
             }
           },
@@ -243,8 +243,8 @@
   },
   "active": "39463951e98be9d1",
   "lastOpenFiles": [
-    "home.md",
     "01_Notes/動画編集作業を楽にするためのショートカット.md",
+    "home.md",
     "01_Notes/映像編集ソフト.md",
     "01_Notes/自動で無音部分をカットする方法.md",
     "01_Notes/AI.md",
