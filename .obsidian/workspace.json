@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-24.md",
+                "file": "01_Notes/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364167d8ac4b7bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/Azure Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-24.md",
+                "file": "01_Notes/Azure Active Directory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-24.md",
+                "file": "01_Notes/Azure Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-24.md"
+                "file": "01_Notes/Azure Active Directory.md"
               }
             }
           },
@@ -253,17 +265,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39463951e98be9d1",
+  "active": "364167d8ac4b7bb1",
   "lastOpenFiles": [
+    "01_Notes/Azure.md",
+    "home.md",
+    "03_Daily Notes/2023-01-24.md",
     "03_Daily Notes/2023-01-23.md",
     "01_Notes/Chocolatey.md",
     "01_Notes/Windowsの日本語化(PowerShell).md",
     "03_Daily Notes/2023-01-22.md",
     "01_Notes/2023-01-24.md",
     "01_Notes/動画編集作業を楽にするためのショートカット.md",
-    "home.md",
-    "01_Notes/映像編集ソフト.md",
-    "01_Notes/自動で無音部分をカットする方法.md",
-    "01_Notes/AI.md"
+    "01_Notes/映像編集ソフト.md"
   ]
 }
