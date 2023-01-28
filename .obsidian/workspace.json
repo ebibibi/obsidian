@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "03_Daily Notes/2023-01-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/エンタイトルメント管理.md",
+                "file": "03_Daily Notes/2023-01-28.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/エンタイトルメント管理.md",
+                "file": "03_Daily Notes/2023-01-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/エンタイトルメント管理.md"
+                "file": "03_Daily Notes/2023-01-28.md"
               }
             }
           },
@@ -277,17 +276,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c1ac7cff58ee298",
+  "active": "bfa74d358ab9de8c",
   "lastOpenFiles": [
+    "home.md",
+    "01_Notes/エンタイトルメント管理.md",
     "01_Notes/Azure Active Directory.md",
     "01_Notes/Azure.md",
-    "home.md",
     "03_Daily Notes/2023-01-24.md",
     "03_Daily Notes/2023-01-23.md",
     "01_Notes/Chocolatey.md",
     "01_Notes/Windowsの日本語化(PowerShell).md",
     "03_Daily Notes/2023-01-22.md",
-    "01_Notes/2023-01-24.md",
-    "01_Notes/動画編集作業を楽にするためのショートカット.md"
+    "01_Notes/2023-01-24.md"
   ]
 }
