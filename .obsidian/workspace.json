@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-01-31.md",
+                "file": "03_Daily Notes/2023-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-01-31.md",
+                "file": "03_Daily Notes/2023-02-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-01-31.md",
+                "file": "03_Daily Notes/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-01-31.md"
+                "file": "03_Daily Notes/2023-02-01.md"
               }
             }
           },
@@ -278,6 +278,7 @@
   },
   "active": "bfa74d358ab9de8c",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-01-31.md",
     "03_Daily Notes/2023-01-30.md",
     "03_Daily Notes/2023-01-28.md",
     "home.md",
@@ -286,7 +287,6 @@
     "01_Notes/Azure.md",
     "03_Daily Notes/2023-01-24.md",
     "03_Daily Notes/2023-01-23.md",
-    "01_Notes/Chocolatey.md",
-    "01_Notes/Windowsの日本語化(PowerShell).md"
+    "01_Notes/Chocolatey.md"
   ]
 }
