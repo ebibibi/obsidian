@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-02-23.md",
+                "file": "03_Daily Notes/2023-02-25.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4eca6340a9553c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-02-23.md",
+                "file": "03_Daily Notes/2023-02-25.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-02-23.md",
+                "file": "03_Daily Notes/2023-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-02-23.md"
+                "file": "03_Daily Notes/2023-02-25.md"
               }
             }
           },
@@ -175,8 +164,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4eca6340a9553c5",
+  "active": "205d760e75df7e4f",
   "lastOpenFiles": [
+    "03_Daily Notes/2023-02-23.md",
+    "03_Daily Notes/2023-02-25.md",
     "03_Daily Notes/2023-02-16.md",
     "03_Daily Notes/2023-02-15.md",
     "03_Daily Notes/2023-02-14.md",
