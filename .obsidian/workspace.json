@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4eca6340a9553c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "205d760e75df7e4f",
+  "active": "f4eca6340a9553c5",
   "lastOpenFiles": [
     "03_Daily Notes/2023-02-16.md",
     "03_Daily Notes/2023-02-15.md",
