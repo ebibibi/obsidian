@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-03-07.md",
+                "file": "03_Daily Notes/2023-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-03-07.md",
+                "file": "03_Daily Notes/2023-03-10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-03-07.md",
+                "file": "03_Daily Notes/2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-03-07.md"
+                "file": "03_Daily Notes/2023-03-10.md"
               }
             }
           },
@@ -154,20 +154,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "random-note:ランダムノートを開く": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "205d760e75df7e4f",
   "lastOpenFiles": [
-    "03_Daily Notes/2023-03-03.md",
     "03_Daily Notes/2023-03-07.md",
+    "03_Daily Notes/2023-03-10.md",
+    "03_Daily Notes/2023-03-03.md",
     "03_Daily Notes/2023-02-27.md",
     "03_Daily Notes/2023-02-26.md",
     "03_Daily Notes/2023-02-25.md",
