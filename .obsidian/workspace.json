@@ -23,9 +23,11 @@
             "id": "ea258c4b9e72fc1a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "03_Daily Notes/2023-03-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
