@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-03-17.md",
+                "file": "03_Daily Notes/2023-03-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-03-17.md",
+                "file": "03_Daily Notes/2023-03-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-03-17.md",
+                "file": "03_Daily Notes/2023-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-03-17.md"
+                "file": "03_Daily Notes/2023-03-19.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "ea258c4b9e72fc1a",
   "lastOpenFiles": [
-    "03_Daily Notes/2023-03-15.md",
     "03_Daily Notes/2023-03-17.md",
+    "03_Daily Notes/2023-03-19.md",
+    "03_Daily Notes/2023-03-15.md",
     "03_Daily Notes/2023-03-14.md",
     "03_Daily Notes/2023-03-10.md",
     "99_Extra/Pasted image 20230310113555.png",
