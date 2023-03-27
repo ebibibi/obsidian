@@ -1,0 +1,3 @@
+- Language Model for Dialogue Applications
+- Googleによって会話に焦点をあてて開発された
+- 単語レベルの関係性だけでは学習できない会話でのトピック間の関連性を学習する

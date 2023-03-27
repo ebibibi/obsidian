@@ -13,6 +13,8 @@
 - [[GPT-4]]
 - [[MT-NLG]]
 - [[PaLM]]
+- [[LaMDA]]
+- [[RETRO]]
 
 ### 視覚・言語
 - [[CLIP]]

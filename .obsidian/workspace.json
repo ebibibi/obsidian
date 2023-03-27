@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f127b2b58f900444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/RETRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/RETRO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/RETRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/AI.md"
+                "file": "01_Notes/RETRO.md"
               }
             }
           },
@@ -164,10 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "533319796ebf4373",
+  "active": "f127b2b58f900444",
   "lastOpenFiles": [
-    "01_Notes/MT-NLG.md",
     "01_Notes/AI.md",
+    "01_Notes/RETRO.md",
+    "01_Notes/LaMDA.md",
+    "01_Notes/MT-NLG.md",
     "03_Daily Notes/2023-02-16-win11main2f.md",
     "03_Daily Notes/2023-02-15-win11main2f.md",
     "03_Daily Notes/2023-02-15.md",
@@ -192,11 +207,9 @@
     "01_Notes/LLM.md",
     "01_Notes/ファインチューニング.md",
     "home.md",
-    "03_Daily Notes/2023-03-07.md",
     "99_Extra/Pasted image 20230319120915.png",
     "99_Extra/Pasted image 20230319112623.png",
     "99_Extra/Pasted image 20230310113555.png",
-    "99_Extra/Pasted image 20230310112906.png",
-    "03_Daily Notes/2023-03-19.md"
+    "99_Extra/Pasted image 20230310112906.png"
   ]
 }
