@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/ファインチューニング.md",
+                "file": "01_Notes/基盤モデル.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e424597c8226abc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/CLIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/ファインチューニング.md",
+                "file": "01_Notes/基盤モデル.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/ファインチューニング.md",
+                "file": "01_Notes/基盤モデル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/ファインチューニング.md"
+                "file": "01_Notes/基盤モデル.md"
               }
             }
           },
@@ -203,6 +215,8 @@
   },
   "active": "511f8207c6b01b3f",
   "lastOpenFiles": [
+    "01_Notes/CLIP.md",
+    "01_Notes/基盤モデル.md",
     "01_Notes/LLM.md",
     "01_Notes/ファインチューニング.md",
     "01_Notes/AI.md",
