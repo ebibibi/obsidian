@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/基盤モデル.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/Unified-IO.md",
+                "file": "01_Notes/基盤モデル.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/Unified-IO.md",
+                "file": "01_Notes/基盤モデル.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/Unified-IO.md"
+                "file": "01_Notes/基盤モデル.md"
               }
             }
           },
@@ -213,8 +212,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3965147a14935539",
+  "active": "205d760e75df7e4f",
   "lastOpenFiles": [
+    "01_Notes/Gato.md",
     "01_Notes/AI.md",
     "01_Notes/Unified-IO.md",
     "01_Notes/Flamingo.md",
@@ -243,7 +243,6 @@
     "03_Daily Notes/2023-02-15.md",
     "03_Daily Notes/2023-02-14.md",
     "03_Daily Notes/2023-02-12.md",
-    "03_Daily Notes/2023-02-11.md",
-    "03_Daily Notes/2023-02-10.md"
+    "03_Daily Notes/2023-02-11.md"
   ]
 }
