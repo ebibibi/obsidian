@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/Unified-IO.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/CLIP.md",
+                "file": "01_Notes/Flamingo.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/CLIP.md",
+                "file": "01_Notes/Unified-IO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/CLIP.md",
+                "file": "01_Notes/Unified-IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/CLIP.md"
+                "file": "01_Notes/Unified-IO.md"
               }
             }
           },
@@ -213,13 +213,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "511f8207c6b01b3f",
+  "active": "3965147a14935539",
   "lastOpenFiles": [
-    "01_Notes/基盤モデル.md",
+    "01_Notes/AI.md",
+    "01_Notes/Unified-IO.md",
+    "01_Notes/Flamingo.md",
     "01_Notes/CLIP.md",
+    "01_Notes/基盤モデル.md",
     "01_Notes/LLM.md",
     "01_Notes/ファインチューニング.md",
-    "01_Notes/AI.md",
     "01_Notes/チャットAI.md",
     "home.md",
     "03_Daily Notes/2023-03-07.md",
