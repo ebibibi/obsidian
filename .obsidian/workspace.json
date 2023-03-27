@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/基盤モデル.md",
+                "file": "01_Notes/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/基盤モデル.md",
+                "file": "01_Notes/Transformer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/基盤モデル.md",
+                "file": "01_Notes/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/基盤モデル.md"
+                "file": "01_Notes/Transformer.md"
               }
             }
           },
@@ -214,12 +214,13 @@
   },
   "active": "205d760e75df7e4f",
   "lastOpenFiles": [
+    "01_Notes/基盤モデル.md",
+    "01_Notes/Transformer.md",
     "01_Notes/Gato.md",
     "01_Notes/AI.md",
     "01_Notes/Unified-IO.md",
     "01_Notes/Flamingo.md",
     "01_Notes/CLIP.md",
-    "01_Notes/基盤モデル.md",
     "01_Notes/LLM.md",
     "01_Notes/ファインチューニング.md",
     "01_Notes/チャットAI.md",
@@ -242,7 +243,6 @@
     "03_Daily Notes/2023-02-16.md",
     "03_Daily Notes/2023-02-15.md",
     "03_Daily Notes/2023-02-14.md",
-    "03_Daily Notes/2023-02-12.md",
-    "03_Daily Notes/2023-02-11.md"
+    "03_Daily Notes/2023-02-12.md"
   ]
 }
