@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8229b3d87a835cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/EXAONE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f127b2b58f900444",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/RETRO.md",
+                "file": "01_Notes/EXAONE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/RETRO.md",
+                "file": "01_Notes/EXAONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/RETRO.md"
+                "file": "01_Notes/EXAONE.md"
               }
             }
           },
@@ -177,9 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f127b2b58f900444",
+  "active": "8229b3d87a835cd3",
   "lastOpenFiles": [
     "01_Notes/AI.md",
+    "01_Notes/EXAONE.md",
     "01_Notes/RETRO.md",
     "01_Notes/LaMDA.md",
     "01_Notes/MT-NLG.md",
@@ -206,7 +219,6 @@
     "01_Notes/CLIP.md",
     "01_Notes/LLM.md",
     "01_Notes/ファインチューニング.md",
-    "home.md",
     "99_Extra/Pasted image 20230319120915.png",
     "99_Extra/Pasted image 20230319112623.png",
     "99_Extra/Pasted image 20230310113555.png",

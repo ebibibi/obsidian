@@ -15,6 +15,7 @@
 - [[PaLM]]
 - [[LaMDA]]
 - [[RETRO]]
+- [[EXAONE]]
 
 ### 視覚・言語
 - [[CLIP]]
