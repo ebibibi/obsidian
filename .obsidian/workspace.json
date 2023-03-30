@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "03_Daily Notes/2023-03-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "03_Daily Notes/2023-03-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "03_Daily Notes/2023-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/AI.md"
+                "file": "03_Daily Notes/2023-03-30.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "533319796ebf4373",
   "lastOpenFiles": [
-    "01_Notes/Wu Dao 2.0.md",
     "01_Notes/AI.md",
+    "03_Daily Notes/2023-03-30.md",
+    "01_Notes/Wu Dao 2.0.md",
     "01_Notes/EXAONE.md",
     "01_Notes/RETRO.md",
     "01_Notes/LaMDA.md",
@@ -217,7 +218,6 @@
     "01_Notes/Gato.md",
     "01_Notes/Flamingo.md",
     "01_Notes/CLIP.md",
-    "01_Notes/LLM.md",
     "99_Extra/Pasted image 20230319120915.png",
     "99_Extra/Pasted image 20230319112623.png",
     "99_Extra/Pasted image 20230310113555.png",
