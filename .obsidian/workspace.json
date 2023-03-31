@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Daily Notes/2023-03-30.md",
+                "file": "01_Notes/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Daily Notes/2023-03-30.md",
+                "file": "01_Notes/AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Daily Notes/2023-03-30.md",
+                "file": "01_Notes/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Daily Notes/2023-03-30.md"
+                "file": "01_Notes/AI.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "533319796ebf4373",
   "lastOpenFiles": [
-    "01_Notes/AI.md",
     "03_Daily Notes/2023-03-30.md",
     "01_Notes/Wu Dao 2.0.md",
+    "01_Notes/AI.md",
     "01_Notes/EXAONE.md",
     "01_Notes/RETRO.md",
     "01_Notes/LaMDA.md",
