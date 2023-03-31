@@ -8,42 +8,67 @@
         "type": "tabs",
         "children": [
           {
+            "id": "205d760e75df7e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/Transformer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3965147a14935539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/GPT-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511f8207c6b01b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/Flamingo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e424597c8226abc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Notes/CLIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "533319796ebf4373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Notes/AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8229b3d87a835cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/EXAONE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f127b2b58f900444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Notes/RETRO.md",
+                "file": "01_Notes/チャットAI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 203.5
   },
   "right": {
     "id": "e0da2e65aa6f00e1",
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/GPT-3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Notes/AI.md",
+                "file": "01_Notes/GPT-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Notes/AI.md"
+                "file": "01_Notes/GPT-3.md"
               }
             }
           },
@@ -178,38 +203,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "random-note:ランダムノートを開く": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "533319796ebf4373",
+  "active": "3965147a14935539",
   "lastOpenFiles": [
     "03_Daily Notes/2023-03-30.md",
     "01_Notes/Wu Dao 2.0.md",
-    "01_Notes/AI.md",
-    "01_Notes/EXAONE.md",
     "01_Notes/RETRO.md",
-    "01_Notes/LaMDA.md",
     "01_Notes/MT-NLG.md",
-    "03_Daily Notes/2023-02-16-win11main2f.md",
-    "03_Daily Notes/2023-02-15-win11main2f.md",
-    "03_Daily Notes/2023-02-15.md",
-    "03_Daily Notes/2023-02-03-win11main2f.md",
-    "03_Daily Notes/2023-02-03.md",
-    "03_Daily Notes/2023-02-04.md",
-    "03_Daily Notes/2023-01-30-win11main2f.md",
-    "03_Daily Notes/2023-01-30.md",
-    "03_Daily Notes/2023-01-28.md",
-    "03_Daily Notes/2023-01-24-win11main2f.md",
-    "03_Daily Notes/2023-01-24.md",
-    "01_Notes/GPT-3.md",
+    "01_Notes/LaMDA.md",
+    "01_Notes/EXAONE.md",
     "01_Notes/基盤モデル.md",
+    "01_Notes/GPT-3.md",
+    "01_Notes/AI.md",
     "01_Notes/チャットAI.md",
     "01_Notes/Unified-IO.md",
     "01_Notes/Transformer.md",
@@ -218,9 +232,20 @@
     "01_Notes/Gato.md",
     "01_Notes/Flamingo.md",
     "01_Notes/CLIP.md",
+    "01_Notes/LLM.md",
+    "01_Notes/ファインチューニング.md",
+    "home.md",
+    "03_Daily Notes/2023-03-07.md",
     "99_Extra/Pasted image 20230319120915.png",
     "99_Extra/Pasted image 20230319112623.png",
     "99_Extra/Pasted image 20230310113555.png",
-    "99_Extra/Pasted image 20230310112906.png"
+    "99_Extra/Pasted image 20230310112906.png",
+    "03_Daily Notes/2023-03-19.md",
+    "03_Daily Notes/2023-03-17.md",
+    "03_Daily Notes/2023-03-15.md",
+    "03_Daily Notes/2023-03-14.md",
+    "03_Daily Notes/2023-03-10.md",
+    "03_Daily Notes/2023-03-03.md",
+    "03_Daily Notes/2023-02-27.md"
   ]
 }
